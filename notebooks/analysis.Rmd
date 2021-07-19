@@ -1,0 +1,259 @@
+---
+title: "R Notebook"
+output: html_notebook
+---
+
+# Installation of required packages
+
+```{r, eval = FALSE}
+install.packages("CausalImpact")
+install.packages("tidyverse")
+#devtools::install_github("teunbrand/ggh4x")
+install.packages("tidyquant")
+```
+
+# load required packages
+
+```{r}
+library(tidyverse)
+library(lubridate)
+library(CausalImpact)
+library(janitor)
+library(broom)
+library(xtable)
+library(tidyquant)
+```
+
+Read the monthly data
+
+```{r}
+df <- read_csv("../data/gig-monthly-stats-new.csv") %>%
+  mutate(month = row_number() %% 12,
+         month = ifelse(month == 0, 12, month),
+         year = str_extract(app, "\\d{4}"),
+         month = paste(15, month, year, sep = "-"),
+         month = as.Date(month, "%d-%m-%Y"))  %>%
+  dplyr::select(-app, -year) %>%
+  gather(apps, vals, -month) %>%
+  filter(!apps %in% c("Google Chrome", "Bolt Courier")) %>%
+  mutate(apps = case_when(apps == "Bolt Driver" ~ "Bolt",
+                          apps == "Glover" ~ "Glover",
+                          apps == "DeliGoo Courier" ~ "DeliGoo",
+                          apps == "Takeaway.com Courier" ~ "Takeaway",
+                          apps == "Uber Driver" ~ "Uber",
+                          apps == "Wolt Courier Partner" ~ "Wolt"),
+         category = ifelse(apps %in% c("Glover", "Wolt", "Takeaway", "DeliGoo"), "Delivery", "Transport"),
+         apps = factor(apps, c("DeliGoo", "Glover", "Takeaway", "Wolt", "Bolt", "Uber"))) %>%
+  group_by(apps) %>%
+  mutate(trend = row_number() - 27) %>%
+  ungroup() %>%
+  filter(vals > 0)
+  
+
+df
+```
+
+Add trend line before pandemic
+
+```{r}
+df %>%
+  filter(trend  < 0) %>%
+  group_by(apps) %>%
+  do(model = tidy(lm(vals ~ trend, data = .))) %>%
+  unnest(cols = c(model)) %>%
+  dplyr::select(apps, term, estimate) %>%
+  spread(term, estimate) -> trend_lines
+
+trend_lines
+```
+
+
+```{r}
+ggplot(data = df, aes(x = trend, y = vals, group = apps)) +
+  geom_line() + 
+  geom_abline(data = trend_lines, aes(slope = trend, intercept = `(Intercept)`, group = apps), 
+              linetype = "dashed", color = "red") +
+  facet_wrap(~  apps, ncol = 3, scales = "free_y") +
+  geom_vline(xintercept = 0, linetype = "dotted", color = "black") + 
+  geom_vline(xintercept = 5, linetype = "dotted", color = "black") +
+  geom_vline(xintercept = 10, linetype = "dotted", color = "black") +
+  theme_bw()  +
+  scale_x_continuous(breaks = c(-24, -18, -12, -6, 0, 6, 12, 18, 24)) + 
+  labs(x = "Months (March 2020=0)", y = "Number of active users",
+       caption = "Note: dotted horizontal lines denote begning of a given COVID-19 wave in Poland. The first is March 2020, the second is August 2020\nand the third is January 2021. Red dashed line denote pre-COVID-19 trend (before March 2020)") -> p1
+p1
+```
+
+```{r}
+ggsave(plot = p1, filename = "../figures/fig1-general.pdf", width = 9, height = 5)
+```
+
+
+# Causal Inference using space-state models
+
+We use bayesian space state models to estimate casual impact of the first COVID wave
+
+```{r}
+df %>% count(apps) %>% 
+  filter(apps != "Takeaway") %>% pull(apps) %>% as.character() -> apps
+
+apps
+```
+
+```{r}
+space_state_results <- list()
+
+for (a in apps) {
+  analysis <- df %>%
+    filter(apps %in% c("Takeaway", a)) %>%
+    dplyr::select(number_of_users = vals, apps, month) %>%
+    filter(number_of_users > 0) %>%
+    spread(apps, number_of_users) %>%
+    na.omit()  %>%
+    mutate(trend = row_number())
+  
+  analysis_ts <- zoo(cbind(analysis[[a]], analysis$Takeaway), as.Date(analysis$month))
+  pre.period <- c(min(analysis$month), as.Date("2020-02-15"))
+  post.period <- c(as.Date("2020-03-15"), max(analysis$month))
+  space_state_results[[a]] <- CausalImpact(analysis_ts, pre.period, post.period)
+}
+
+```
+
+# Summary
+
+```{r}
+lapply(space_state_results, plot)
+```
+Columns AbsEffect, AbsEffect.lower, AbsEffect.upper, RelEffect, RelEffect.lower,  RelEffect.upper
+
+```{r}
+space_state_results %>% 
+  map("summary") %>%
+  bind_rows(.id = "apps") %>%
+  rownames_to_column() %>%
+  filter(str_detect(rowname, "Aver")) %>%
+  dplyr::select(apps, 
+                abs=AbsEffect, abs_l=AbsEffect.lower, abs_u=AbsEffect.upper, 
+                rel=RelEffect, rel_l=RelEffect.lower,  rel_u=RelEffect.upper) %>%
+  mutate_at(vars(rel:rel_u), function(x) x*100) %>%
+  mutate_at(vars(abs:abs_u), function(x) as.integer(round(x))) -> average_over_period
+
+average_over_period
+```
+
+```{r}
+space_state_results %>%
+  map("series") %>%
+  map_df(~.x %>% as.data.frame() %>%
+           rownames_to_column(var = "month") %>%
+           dplyr::select(month, response, point.effect, point.effect.lower, point.effect.upper) %>%
+           filter(month == "2020-09-15"), .id = "apps") %>%
+  mutate(rel_m = point.effect/response*100,
+         rel_m_l = point.effect.lower/response*100,
+         rel_m_u = point.effect.upper/response*100,
+         abs_m = as.integer(round(point.effect)),
+         abs_m_l = as.integer(round(point.effect.lower)),
+         abs_m_u = as.integer(round(point.effect.upper))) %>%
+  dplyr::select(apps, abs_m:abs_m_u, rel_m:rel_m_u) -> before_2_wave
+  
+```
+
+```{r}
+average_over_period %>%
+  left_join(before_2_wave) %>%
+  xtable(digits = 1) %>%
+  print.xtable(include.rownames = F)
+```
+
+## Appendix
+
+### COVID-19 in Poland
+
+```{r}
+covid_poland <- read_csv("../data/covid-in-poland.csv")  
+
+ggplot(data = covid_poland, aes(x = date, y = new_cases, group = 1)) +
+  geom_line() +
+  theme_bw() +
+  labs(x = "Date", y = "New cases") +
+  geom_vline(xintercept = as.Date("2020-03-12"), linetype = "dotted", color = "black") + 
+  geom_vline(xintercept = as.Date("2020-09-30"), linetype = "dotted", color = "black") +
+  geom_vline(xintercept = as.Date("2021-01-31"), linetype = "dotted", color = "black") +
+  geom_ma(ma_fun = SMA, n = 7, col = "red", linetype = "solid", size = 1) -> p_cases
+
+p_cases
+```
+
+```{r}
+ggsave(plot = p_cases, filename = "../figures/fig-appen-cases.pdf", width = 9, height = 5)
+```
+
+### Demographics
+
+Shares between II half of 2019 and II half of 2020.
+
+```{r}
+gig_demo <- read_csv("../data/gig-table2-halfyear-demo-stats.csv") %>%
+  filter(period %in% c(2019.2, 2020.2)) %>%
+  filter(!apps %in% c("Bolt Courier", "FREE NOW", "iTaxi")) %>%
+  dplyr::select(gender:n_unique_users) %>%
+  mutate(period = ifelse(period == "2019.2", "2019 HY2", "2020 HY2"),
+         apps = ifelse(apps == "Bolt Driver", "Bolt", apps))
+
+gig_demo %>%
+  count(apps, gender, period, wt = n_unique_users) %>%
+  add_count(apps, period, wt = n, name = "total") %>%
+  mutate(p = n/total*100) %>%
+  dplyr::select(-n,-total) %>%
+  spread(apps, p) %>%
+  rename(var = gender) -> gig_gender
+
+gig_demo %>%
+  count(apps, age, period, wt = n_unique_users) %>%
+  add_count(apps, period, wt = n, name = "total") %>%
+  mutate(p = n/total*100) %>%
+  dplyr::select(-n,-total) %>%
+  spread(apps, p, fill = 0) %>%
+  rename(var = age) -> gig_age
+
+gig_demo %>%
+  count(apps, country, period, wt = n_unique_users) %>%
+  add_count(apps, period, wt = n, name = "total") %>%
+  mutate(p = n/total*100) %>%
+  dplyr::select(-n,-total) %>%
+  spread(apps, p, fill = 0) %>%
+  rename(var = country) -> gig_country
+```
+
+
+Spatial
+
+```{r}
+#gig_spatial <- 
+read_csv("../data/gig-table3-halfyear-region-stats.csv") %>%
+  filter(period %in% c(2019.2, 2020.2)) %>%
+  filter(!apps %in% c("Bolt Courier", "FREE NOW", "iTaxi")) %>%
+  count(group, period, apps, wt = number_of_users) %>%
+  mutate(period = ifelse(period == "2019.2", "2019 HY2", "2020 HY2"),
+         apps = ifelse(apps == "Bolt Driver", "Bolt", apps)) %>%
+  spread(group, n) %>%
+  mutate(Voivodeship = Voivodeship - `Functional area`,
+         `Functional area` = `Functional area` - Cities) %>%
+  gather(geo, vals, -period, -apps) %>%
+  add_count(period, apps, wt = vals, name = "total") %>%
+  mutate(p = vals/total*100) %>%
+  dplyr::select(-vals, -total) %>%
+  spread(apps, p) %>%
+  arrange(geo, period) %>%
+  rename(var = geo) -> gig_spatial
+```
+
+```{r}
+gig_gender %>%
+  bind_rows(gig_age) %>%
+  bind_rows(gig_country) %>%
+  bind_rows(gig_spatial) %>%
+  xtable(digits = 1) %>%
+  print.xtable(include.rownames = F)
+```

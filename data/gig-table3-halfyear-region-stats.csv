@@ -1,0 +1,1717 @@
+group,period,region_name,apps,number_of_users,category
+Voivodeship,2018.1,dolnośląskie,Bolt Driver,2758,Transportation
+Voivodeship,2018.1,kujawsko-pomorskie,Bolt Driver,1003,Transportation
+Voivodeship,2018.1,lubelskie,Bolt Driver,676,Transportation
+Voivodeship,2018.1,łódzkie,Bolt Driver,919,Transportation
+Voivodeship,2018.1,małopolskie,Bolt Driver,4467,Transportation
+Voivodeship,2018.1,mazowieckie,Bolt Driver,10171,Transportation
+Voivodeship,2018.1,pomorskie,Bolt Driver,1019,Transportation
+Voivodeship,2018.1,śląskie,Bolt Driver,1869,Transportation
+Voivodeship,2018.1,wielkopolskie,Bolt Driver,931,Transportation
+Voivodeship,2019.1,dolnośląskie,Bolt Driver,3343,Transportation
+Voivodeship,2019.1,kujawsko-pomorskie,Bolt Driver,1672,Transportation
+Voivodeship,2019.1,lubelskie,Bolt Driver,909,Transportation
+Voivodeship,2019.1,łódzkie,Bolt Driver,1334,Transportation
+Voivodeship,2019.1,małopolskie,Bolt Driver,5917,Transportation
+Voivodeship,2019.1,mazowieckie,Bolt Driver,13549,Transportation
+Voivodeship,2019.1,pomorskie,Bolt Driver,1107,Transportation
+Voivodeship,2019.1,śląskie,Bolt Driver,2869,Transportation
+Voivodeship,2019.1,wielkopolskie,Bolt Driver,1087,Transportation
+Voivodeship,2020.1,dolnośląskie,Bolt Driver,3758,Transportation
+Voivodeship,2020.1,kujawsko-pomorskie,Bolt Driver,1960,Transportation
+Voivodeship,2020.1,lubelskie,Bolt Driver,1067,Transportation
+Voivodeship,2020.1,łódzkie,Bolt Driver,1679,Transportation
+Voivodeship,2020.1,małopolskie,Bolt Driver,6517,Transportation
+Voivodeship,2020.1,mazowieckie,Bolt Driver,16827,Transportation
+Voivodeship,2020.1,pomorskie,Bolt Driver,881,Transportation
+Voivodeship,2020.1,śląskie,Bolt Driver,2816,Transportation
+Voivodeship,2020.1,wielkopolskie,Bolt Driver,1669,Transportation
+Voivodeship,2018.2,dolnośląskie,Bolt Driver,3279,Transportation
+Voivodeship,2018.2,kujawsko-pomorskie,Bolt Driver,1181,Transportation
+Voivodeship,2018.2,lubelskie,Bolt Driver,873,Transportation
+Voivodeship,2018.2,łódzkie,Bolt Driver,1212,Transportation
+Voivodeship,2018.2,małopolskie,Bolt Driver,5245,Transportation
+Voivodeship,2018.2,mazowieckie,Bolt Driver,11137,Transportation
+Voivodeship,2018.2,pomorskie,Bolt Driver,1256,Transportation
+Voivodeship,2018.2,śląskie,Bolt Driver,2607,Transportation
+Voivodeship,2018.2,wielkopolskie,Bolt Driver,1105,Transportation
+Voivodeship,2019.2,dolnośląskie,Bolt Driver,3903,Transportation
+Voivodeship,2019.2,kujawsko-pomorskie,Bolt Driver,2045,Transportation
+Voivodeship,2019.2,lubelskie,Bolt Driver,1132,Transportation
+Voivodeship,2019.2,łódzkie,Bolt Driver,1727,Transportation
+Voivodeship,2019.2,małopolskie,Bolt Driver,6164,Transportation
+Voivodeship,2019.2,mazowieckie,Bolt Driver,14477,Transportation
+Voivodeship,2019.2,pomorskie,Bolt Driver,1228,Transportation
+Voivodeship,2019.2,śląskie,Bolt Driver,2851,Transportation
+Voivodeship,2019.2,wielkopolskie,Bolt Driver,1443,Transportation
+Voivodeship,2020.2,dolnośląskie,Bolt Driver,4150,Transportation
+Voivodeship,2020.2,kujawsko-pomorskie,Bolt Driver,2271,Transportation
+Voivodeship,2020.2,lubelskie,Bolt Driver,1501,Transportation
+Voivodeship,2020.2,łódzkie,Bolt Driver,1959,Transportation
+Voivodeship,2020.2,małopolskie,Bolt Driver,6848,Transportation
+Voivodeship,2020.2,mazowieckie,Bolt Driver,15916,Transportation
+Voivodeship,2020.2,pomorskie,Bolt Driver,944,Transportation
+Voivodeship,2020.2,śląskie,Bolt Driver,2982,Transportation
+Voivodeship,2020.2,wielkopolskie,Bolt Driver,2284,Transportation
+Functional area,2018.1,Functional area - Bydgoszcz,Bolt Driver,528,Transportation
+Functional area,2019.1,Functional area - Bydgoszcz,Bolt Driver,624,Transportation
+Functional area,2020.1,Functional area - Bydgoszcz,Bolt Driver,697,Transportation
+Functional area,2018.2,Functional area - Bydgoszcz,Bolt Driver,589,Transportation
+Functional area,2019.2,Functional area - Bydgoszcz,Bolt Driver,597,Transportation
+Functional area,2020.2,Functional area - Bydgoszcz,Bolt Driver,584,Transportation
+Functional area,2018.1,Functional area - GZM,Bolt Driver,1285,Transportation
+Functional area,2019.1,Functional area - GZM,Bolt Driver,1369,Transportation
+Functional area,2020.1,Functional area - GZM,Bolt Driver,1419,Transportation
+Functional area,2018.2,Functional area - GZM,Bolt Driver,1304,Transportation
+Functional area,2019.2,Functional area - GZM,Bolt Driver,1345,Transportation
+Functional area,2020.2,Functional area - GZM,Bolt Driver,1319,Transportation
+Functional area,2018.1,Functional area - GZM2,Bolt Driver,566,Transportation
+Functional area,2019.1,Functional area - GZM2,Bolt Driver,761,Transportation
+Functional area,2020.1,Functional area - GZM2,Bolt Driver,680,Transportation
+Functional area,2018.2,Functional area - GZM2,Bolt Driver,695,Transportation
+Functional area,2019.2,Functional area - GZM2,Bolt Driver,634,Transportation
+Functional area,2020.2,Functional area - GZM2,Bolt Driver,670,Transportation
+Functional area,2018.1,Functional area - Kraków,Bolt Driver,4425,Transportation
+Functional area,2019.1,Functional area - Kraków,Bolt Driver,4528,Transportation
+Functional area,2020.1,Functional area - Kraków,Bolt Driver,4429,Transportation
+Functional area,2018.2,Functional area - Kraków,Bolt Driver,4494,Transportation
+Functional area,2019.2,Functional area - Kraków,Bolt Driver,4394,Transportation
+Functional area,2020.2,Functional area - Kraków,Bolt Driver,4368,Transportation
+Functional area,2018.1,Functional area - Łódź,Bolt Driver,910,Transportation
+Functional area,2019.1,Functional area - Łódź,Bolt Driver,964,Transportation
+Functional area,2020.1,Functional area - Łódź,Bolt Driver,918,Transportation
+Functional area,2018.2,Functional area - Łódź,Bolt Driver,941,Transportation
+Functional area,2019.2,Functional area - Łódź,Bolt Driver,840,Transportation
+Functional area,2020.2,Functional area - Łódź,Bolt Driver,911,Transportation
+Functional area,2018.1,Functional area - Lublin,Bolt Driver,670,Transportation
+Functional area,2019.1,Functional area - Lublin,Bolt Driver,810,Transportation
+Functional area,2020.1,Functional area - Lublin,Bolt Driver,935,Transportation
+Functional area,2018.2,Functional area - Lublin,Bolt Driver,810,Transportation
+Functional area,2019.2,Functional area - Lublin,Bolt Driver,807,Transportation
+Functional area,2020.2,Functional area - Lublin,Bolt Driver,862,Transportation
+Functional area,2018.1,Functional area - Poznań,Bolt Driver,922,Transportation
+Functional area,2019.1,Functional area - Poznań,Bolt Driver,1087,Transportation
+Functional area,2020.1,Functional area - Poznań,Bolt Driver,1026,Transportation
+Functional area,2018.2,Functional area - Poznań,Bolt Driver,1056,Transportation
+Functional area,2019.2,Functional area - Poznań,Bolt Driver,981,Transportation
+Functional area,2020.2,Functional area - Poznań,Bolt Driver,916,Transportation
+Functional area,2018.1,Functional area - Toruń,Bolt Driver,465,Transportation
+Functional area,2019.1,Functional area - Toruń,Bolt Driver,625,Transportation
+Functional area,2020.1,Functional area - Toruń,Bolt Driver,620,Transportation
+Functional area,2018.2,Functional area - Toruń,Bolt Driver,520,Transportation
+Functional area,2019.2,Functional area - Toruń,Bolt Driver,617,Transportation
+Functional area,2020.2,Functional area - Toruń,Bolt Driver,499,Transportation
+Functional area,2018.1,Functional area - Trójmiasto,Bolt Driver,1009,Transportation
+Functional area,2019.1,Functional area - Trójmiasto,Bolt Driver,1107,Transportation
+Functional area,2020.1,Functional area - Trójmiasto,Bolt Driver,881,Transportation
+Functional area,2018.2,Functional area - Trójmiasto,Bolt Driver,1028,Transportation
+Functional area,2019.2,Functional area - Trójmiasto,Bolt Driver,1127,Transportation
+Functional area,2020.2,Functional area - Trójmiasto,Bolt Driver,944,Transportation
+Functional area,2018.1,Functional area - Warszawa,Bolt Driver,10073,Transportation
+Functional area,2019.1,Functional area - Warszawa,Bolt Driver,10591,Transportation
+Functional area,2020.1,Functional area - Warszawa,Bolt Driver,10972,Transportation
+Functional area,2018.2,Functional area - Warszawa,Bolt Driver,10515,Transportation
+Functional area,2019.2,Functional area - Warszawa,Bolt Driver,10730,Transportation
+Functional area,2020.2,Functional area - Warszawa,Bolt Driver,11010,Transportation
+Functional area,2018.1,Functional area - Wrocław,Bolt Driver,2731,Transportation
+Functional area,2019.1,Functional area - Wrocław,Bolt Driver,2893,Transportation
+Functional area,2020.1,Functional area - Wrocław,Bolt Driver,2910,Transportation
+Functional area,2018.2,Functional area - Wrocław,Bolt Driver,2818,Transportation
+Functional area,2019.2,Functional area - Wrocław,Bolt Driver,2788,Transportation
+Functional area,2020.2,Functional area - Wrocław,Bolt Driver,2828,Transportation
+Cities,2018.1,Wrocław,Bolt Driver,2458,Transportation
+Cities,2018.1,Bydgoszcz,Bolt Driver,238,Transportation
+Cities,2018.1,Toruń,Bolt Driver,235,Transportation
+Cities,2018.1,Lublin,Bolt Driver,542,Transportation
+Cities,2018.1,Warszawa,Bolt Driver,6858,Transportation
+Cities,2018.1,Kraków,Bolt Driver,3895,Transportation
+Cities,2018.1,Gdańsk,Bolt Driver,358,Transportation
+Cities,2018.1,Gdynia,Bolt Driver,256,Transportation
+Cities,2018.1,Sopot,Bolt Driver,49,Transportation
+Cities,2018.1,Poznań,Bolt Driver,758,Transportation
+Cities,2018.1,Łódź,Bolt Driver,821,Transportation
+Cities,2018.1,Katowice,Bolt Driver,1285,Transportation
+Cities,2019.1,Wrocław,Bolt Driver,2083,Transportation
+Cities,2019.1,Bydgoszcz,Bolt Driver,371,Transportation
+Cities,2019.1,Toruń,Bolt Driver,369,Transportation
+Cities,2019.1,Warszawa,Bolt Driver,7037,Transportation
+Cities,2019.1,Kraków,Bolt Driver,4080,Transportation
+Cities,2019.1,Gdańsk,Bolt Driver,516,Transportation
+Cities,2019.1,Gdynia,Bolt Driver,339,Transportation
+Cities,2019.1,Sopot,Bolt Driver,260,Transportation
+Cities,2019.1,Poznań,Bolt Driver,777,Transportation
+Cities,2019.1,Łódź,Bolt Driver,924,Transportation
+Cities,2020.1,Wrocław,Bolt Driver,1589,Transportation
+Cities,2020.1,Bydgoszcz,Bolt Driver,376,Transportation
+Cities,2020.1,Toruń,Bolt Driver,433,Transportation
+Cities,2020.1,Warszawa,Bolt Driver,7413,Transportation
+Cities,2020.1,Kraków,Bolt Driver,4187,Transportation
+Cities,2020.1,Gdańsk,Bolt Driver,598,Transportation
+Cities,2020.1,Gdynia,Bolt Driver,417,Transportation
+Cities,2020.1,Sopot,Bolt Driver,258,Transportation
+Cities,2020.1,Poznań,Bolt Driver,795,Transportation
+Cities,2020.1,Łódź,Bolt Driver,918,Transportation
+Cities,2018.2,Wrocław,Bolt Driver,2143,Transportation
+Cities,2018.2,Bydgoszcz,Bolt Driver,268,Transportation
+Cities,2018.2,Toruń,Bolt Driver,356,Transportation
+Cities,2018.2,Warszawa,Bolt Driver,6994,Transportation
+Cities,2018.2,Kraków,Bolt Driver,3996,Transportation
+Cities,2018.2,Gdańsk,Bolt Driver,396,Transportation
+Cities,2018.2,Gdynia,Bolt Driver,287,Transportation
+Cities,2018.2,Sopot,Bolt Driver,175,Transportation
+Cities,2018.2,Poznań,Bolt Driver,772,Transportation
+Cities,2018.2,Łódź,Bolt Driver,907,Transportation
+Cities,2019.2,Wrocław,Bolt Driver,1915,Transportation
+Cities,2019.2,Bydgoszcz,Bolt Driver,272,Transportation
+Cities,2019.2,Toruń,Bolt Driver,307,Transportation
+Cities,2019.2,Warszawa,Bolt Driver,7256,Transportation
+Cities,2019.2,Kraków,Bolt Driver,4055,Transportation
+Cities,2019.2,Gdańsk,Bolt Driver,480,Transportation
+Cities,2019.2,Gdynia,Bolt Driver,286,Transportation
+Cities,2019.2,Sopot,Bolt Driver,215,Transportation
+Cities,2019.2,Poznań,Bolt Driver,704,Transportation
+Cities,2019.2,Łódź,Bolt Driver,840,Transportation
+Cities,2020.2,Wrocław,Bolt Driver,1617,Transportation
+Cities,2020.2,Bydgoszcz,Bolt Driver,274,Transportation
+Cities,2020.2,Toruń,Bolt Driver,336,Transportation
+Cities,2020.2,Warszawa,Bolt Driver,7799,Transportation
+Cities,2020.2,Kraków,Bolt Driver,4166,Transportation
+Cities,2020.2,Gdańsk,Bolt Driver,542,Transportation
+Cities,2020.2,Gdynia,Bolt Driver,401,Transportation
+Cities,2020.2,Sopot,Bolt Driver,249,Transportation
+Cities,2020.2,Poznań,Bolt Driver,701,Transportation
+Cities,2020.2,Łódź,Bolt Driver,793,Transportation
+Voivodeship,2018.1,dolnośląskie,FREE NOW,860,Transportation
+Voivodeship,2018.1,łódzkie,FREE NOW,226,Transportation
+Voivodeship,2018.1,małopolskie,FREE NOW,1532,Transportation
+Voivodeship,2018.1,mazowieckie,FREE NOW,4404,Transportation
+Voivodeship,2018.1,pomorskie,FREE NOW,786,Transportation
+Voivodeship,2018.1,śląskie,FREE NOW,714,Transportation
+Voivodeship,2018.1,wielkopolskie,FREE NOW,361,Transportation
+Voivodeship,2019.1,dolnośląskie,FREE NOW,1537,Transportation
+Voivodeship,2019.1,łódzkie,FREE NOW,294,Transportation
+Voivodeship,2019.1,małopolskie,FREE NOW,2727,Transportation
+Voivodeship,2019.1,mazowieckie,FREE NOW,7655,Transportation
+Voivodeship,2019.1,pomorskie,FREE NOW,1296,Transportation
+Voivodeship,2019.1,śląskie,FREE NOW,1271,Transportation
+Voivodeship,2019.1,wielkopolskie,FREE NOW,475,Transportation
+Voivodeship,2020.1,dolnośląskie,FREE NOW,2301,Transportation
+Voivodeship,2020.1,łódzkie,FREE NOW,575,Transportation
+Voivodeship,2020.1,małopolskie,FREE NOW,3446,Transportation
+Voivodeship,2020.1,mazowieckie,FREE NOW,9895,Transportation
+Voivodeship,2020.1,pomorskie,FREE NOW,1836,Transportation
+Voivodeship,2020.1,śląskie,FREE NOW,1667,Transportation
+Voivodeship,2020.1,wielkopolskie,FREE NOW,515,Transportation
+Voivodeship,2018.2,dolnośląskie,FREE NOW,1365,Transportation
+Voivodeship,2018.2,łódzkie,FREE NOW,427,Transportation
+Voivodeship,2018.2,małopolskie,FREE NOW,2257,Transportation
+Voivodeship,2018.2,mazowieckie,FREE NOW,5682,Transportation
+Voivodeship,2018.2,pomorskie,FREE NOW,1254,Transportation
+Voivodeship,2018.2,śląskie,FREE NOW,1074,Transportation
+Voivodeship,2018.2,wielkopolskie,FREE NOW,558,Transportation
+Voivodeship,2019.2,dolnośląskie,FREE NOW,2063,Transportation
+Voivodeship,2019.2,łódzkie,FREE NOW,563,Transportation
+Voivodeship,2019.2,małopolskie,FREE NOW,3254,Transportation
+Voivodeship,2019.2,mazowieckie,FREE NOW,8158,Transportation
+Voivodeship,2019.2,pomorskie,FREE NOW,1801,Transportation
+Voivodeship,2019.2,śląskie,FREE NOW,1641,Transportation
+Voivodeship,2019.2,wielkopolskie,FREE NOW,613,Transportation
+Voivodeship,2020.2,dolnośląskie,FREE NOW,2668,Transportation
+Voivodeship,2020.2,łódzkie,FREE NOW,813,Transportation
+Voivodeship,2020.2,małopolskie,FREE NOW,3916,Transportation
+Voivodeship,2020.2,mazowieckie,FREE NOW,9143,Transportation
+Voivodeship,2020.2,pomorskie,FREE NOW,2269,Transportation
+Voivodeship,2020.2,śląskie,FREE NOW,2084,Transportation
+Voivodeship,2020.2,wielkopolskie,FREE NOW,680,Transportation
+Functional area,2018.1,Functional area - GZM,FREE NOW,432,Transportation
+Functional area,2019.1,Functional area - GZM,FREE NOW,457,Transportation
+Functional area,2020.1,Functional area - GZM,FREE NOW,486,Transportation
+Functional area,2018.2,Functional area - GZM,FREE NOW,438,Transportation
+Functional area,2019.2,Functional area - GZM,FREE NOW,471,Transportation
+Functional area,2020.2,Functional area - GZM,FREE NOW,506,Transportation
+Functional area,2018.1,Functional area - GZM2,FREE NOW,192,Transportation
+Functional area,2019.1,Functional area - GZM2,FREE NOW,225,Transportation
+Functional area,2020.1,Functional area - GZM2,FREE NOW,251,Transportation
+Functional area,2018.2,Functional area - GZM2,FREE NOW,205,Transportation
+Functional area,2019.2,Functional area - GZM2,FREE NOW,234,Transportation
+Functional area,2020.2,Functional area - GZM2,FREE NOW,257,Transportation
+Functional area,2018.1,Functional area - Kraków,FREE NOW,1304,Transportation
+Functional area,2019.1,Functional area - Kraków,FREE NOW,1321,Transportation
+Functional area,2020.1,Functional area - Kraków,FREE NOW,1350,Transportation
+Functional area,2018.2,Functional area - Kraków,FREE NOW,1313,Transportation
+Functional area,2019.2,Functional area - Kraków,FREE NOW,1337,Transportation
+Functional area,2020.2,Functional area - Kraków,FREE NOW,1361,Transportation
+Functional area,2018.1,Functional area - Łódź,FREE NOW,211,Transportation
+Functional area,2019.1,Functional area - Łódź,FREE NOW,229,Transportation
+Functional area,2020.1,Functional area - Łódź,FREE NOW,253,Transportation
+Functional area,2018.2,Functional area - Łódź,FREE NOW,215,Transportation
+Functional area,2019.2,Functional area - Łódź,FREE NOW,244,Transportation
+Functional area,2020.2,Functional area - Łódź,FREE NOW,266,Transportation
+Functional area,2018.1,Functional area - Poznań,FREE NOW,307,Transportation
+Functional area,2019.1,Functional area - Poznań,FREE NOW,327,Transportation
+Functional area,2020.1,Functional area - Poznań,FREE NOW,352,Transportation
+Functional area,2018.2,Functional area - Poznań,FREE NOW,317,Transportation
+Functional area,2019.2,Functional area - Poznań,FREE NOW,344,Transportation
+Functional area,2020.2,Functional area - Poznań,FREE NOW,371,Transportation
+Functional area,2018.1,Functional area - Trójmiasto,FREE NOW,672,Transportation
+Functional area,2019.1,Functional area - Trójmiasto,FREE NOW,695,Transportation
+Functional area,2020.1,Functional area - Trójmiasto,FREE NOW,719,Transportation
+Functional area,2018.2,Functional area - Trójmiasto,FREE NOW,682,Transportation
+Functional area,2019.2,Functional area - Trójmiasto,FREE NOW,701,Transportation
+Functional area,2020.2,Functional area - Trójmiasto,FREE NOW,723,Transportation
+Functional area,2018.1,Functional area - Warszawa,FREE NOW,3799,Transportation
+Functional area,2019.1,Functional area - Warszawa,FREE NOW,3823,Transportation
+Functional area,2020.1,Functional area - Warszawa,FREE NOW,3849,Transportation
+Functional area,2018.2,Functional area - Warszawa,FREE NOW,3807,Transportation
+Functional area,2019.2,Functional area - Warszawa,FREE NOW,3833,Transportation
+Functional area,2020.2,Functional area - Warszawa,FREE NOW,3854,Transportation
+Functional area,2018.1,Functional area - Wrocław,FREE NOW,758,Transportation
+Functional area,2019.1,Functional area - Wrocław,FREE NOW,774,Transportation
+Functional area,2020.1,Functional area - Wrocław,FREE NOW,805,Transportation
+Functional area,2018.2,Functional area - Wrocław,FREE NOW,760,Transportation
+Functional area,2019.2,Functional area - Wrocław,FREE NOW,786,Transportation
+Functional area,2020.2,Functional area - Wrocław,FREE NOW,809,Transportation
+Cities,2018.1,Wrocław,FREE NOW,545,Transportation
+Cities,2018.1,Warszawa,FREE NOW,2965,Transportation
+Cities,2018.1,Kraków,FREE NOW,1058,Transportation
+Cities,2018.1,Gdańsk,FREE NOW,312,Transportation
+Cities,2018.1,Gdynia,FREE NOW,189,Transportation
+Cities,2018.1,Sopot,FREE NOW,44,Transportation
+Cities,2018.1,Poznań,FREE NOW,256,Transportation
+Cities,2018.1,Łódź,FREE NOW,165,Transportation
+Cities,2018.1,Katowice,FREE NOW,432,Transportation
+Cities,2019.1,Wrocław,FREE NOW,755,Transportation
+Cities,2019.1,Warszawa,FREE NOW,3098,Transportation
+Cities,2019.1,Kraków,FREE NOW,1158,Transportation
+Cities,2019.1,Gdańsk,FREE NOW,478,Transportation
+Cities,2019.1,Gdynia,FREE NOW,283,Transportation
+Cities,2019.1,Sopot,FREE NOW,170,Transportation
+Cities,2019.1,Poznań,FREE NOW,287,Transportation
+Cities,2019.1,Łódź,FREE NOW,229,Transportation
+Cities,2020.1,Wrocław,FREE NOW,711,Transportation
+Cities,2020.1,Warszawa,FREE NOW,2994,Transportation
+Cities,2020.1,Kraków,FREE NOW,1279,Transportation
+Cities,2020.1,Gdańsk,FREE NOW,515,Transportation
+Cities,2020.1,Gdynia,FREE NOW,202,Transportation
+Cities,2020.1,Sopot,FREE NOW,80,Transportation
+Cities,2020.1,Poznań,FREE NOW,186,Transportation
+Cities,2020.1,Łódź,FREE NOW,253,Transportation
+Cities,2018.2,Wrocław,FREE NOW,642,Transportation
+Cities,2018.2,Warszawa,FREE NOW,3042,Transportation
+Cities,2018.2,Kraków,FREE NOW,1089,Transportation
+Cities,2018.2,Gdańsk,FREE NOW,419,Transportation
+Cities,2018.2,Gdynia,FREE NOW,214,Transportation
+Cities,2018.2,Sopot,FREE NOW,121,Transportation
+Cities,2018.2,Poznań,FREE NOW,281,Transportation
+Cities,2018.2,Łódź,FREE NOW,215,Transportation
+Cities,2019.2,Wrocław,FREE NOW,662,Transportation
+Cities,2019.2,Warszawa,FREE NOW,2956,Transportation
+Cities,2019.2,Kraków,FREE NOW,1131,Transportation
+Cities,2019.2,Gdańsk,FREE NOW,441,Transportation
+Cities,2019.2,Gdynia,FREE NOW,162,Transportation
+Cities,2019.2,Sopot,FREE NOW,23,Transportation
+Cities,2019.2,Poznań,FREE NOW,182,Transportation
+Cities,2019.2,Łódź,FREE NOW,229,Transportation
+Cities,2020.2,Wrocław,FREE NOW,620,Transportation
+Cities,2020.2,Warszawa,FREE NOW,2954,Transportation
+Cities,2020.2,Kraków,FREE NOW,1219,Transportation
+Cities,2020.2,Gdańsk,FREE NOW,450,Transportation
+Cities,2020.2,Gdynia,FREE NOW,120,Transportation
+Cities,2020.2,Sopot,FREE NOW,35,Transportation
+Cities,2020.2,Poznań,FREE NOW,64,Transportation
+Cities,2020.2,Łódź,FREE NOW,230,Transportation
+Voivodeship,2018.1,dolnośląskie,Takeaway,230,Delivery
+Voivodeship,2018.1,kujawsko-pomorskie,Takeaway,205,Delivery
+Voivodeship,2018.1,lubelskie,Takeaway,356,Delivery
+Voivodeship,2018.1,lubuskie,Takeaway,97,Delivery
+Voivodeship,2018.1,łódzkie,Takeaway,307,Delivery
+Voivodeship,2018.1,małopolskie,Takeaway,854,Delivery
+Voivodeship,2018.1,mazowieckie,Takeaway,3585,Delivery
+Voivodeship,2018.1,opolskie,Takeaway,316,Delivery
+Voivodeship,2018.1,podkarpackie,Takeaway,58,Delivery
+Voivodeship,2018.1,podlaskie,Takeaway,153,Delivery
+Voivodeship,2018.1,pomorskie,Takeaway,364,Delivery
+Voivodeship,2018.1,śląskie,Takeaway,520,Delivery
+Voivodeship,2018.1,świętokrzyskie,Takeaway,128,Delivery
+Voivodeship,2018.1,warmińsko-mazurskie,Takeaway,89,Delivery
+Voivodeship,2018.1,wielkopolskie,Takeaway,598,Delivery
+Voivodeship,2018.1,zachodniopomorskie,Takeaway,243,Delivery
+Voivodeship,2019.1,dolnośląskie,Takeaway,400,Delivery
+Voivodeship,2019.1,kujawsko-pomorskie,Takeaway,357,Delivery
+Voivodeship,2019.1,lubelskie,Takeaway,513,Delivery
+Voivodeship,2019.1,lubuskie,Takeaway,271,Delivery
+Voivodeship,2019.1,łódzkie,Takeaway,527,Delivery
+Voivodeship,2019.1,małopolskie,Takeaway,1132,Delivery
+Voivodeship,2019.1,mazowieckie,Takeaway,3389,Delivery
+Voivodeship,2019.1,opolskie,Takeaway,500,Delivery
+Voivodeship,2019.1,podkarpackie,Takeaway,183,Delivery
+Voivodeship,2019.1,podlaskie,Takeaway,277,Delivery
+Voivodeship,2019.1,pomorskie,Takeaway,606,Delivery
+Voivodeship,2019.1,śląskie,Takeaway,720,Delivery
+Voivodeship,2019.1,świętokrzyskie,Takeaway,271,Delivery
+Voivodeship,2019.1,warmińsko-mazurskie,Takeaway,211,Delivery
+Voivodeship,2019.1,wielkopolskie,Takeaway,912,Delivery
+Voivodeship,2019.1,zachodniopomorskie,Takeaway,366,Delivery
+Voivodeship,2020.1,dolnośląskie,Takeaway,520,Delivery
+Voivodeship,2020.1,kujawsko-pomorskie,Takeaway,509,Delivery
+Voivodeship,2020.1,lubelskie,Takeaway,795,Delivery
+Voivodeship,2020.1,lubuskie,Takeaway,493,Delivery
+Voivodeship,2020.1,łódzkie,Takeaway,827,Delivery
+Voivodeship,2020.1,małopolskie,Takeaway,1476,Delivery
+Voivodeship,2020.1,mazowieckie,Takeaway,2589,Delivery
+Voivodeship,2020.1,opolskie,Takeaway,828,Delivery
+Voivodeship,2020.1,podkarpackie,Takeaway,381,Delivery
+Voivodeship,2020.1,podlaskie,Takeaway,488,Delivery
+Voivodeship,2020.1,pomorskie,Takeaway,929,Delivery
+Voivodeship,2020.1,śląskie,Takeaway,1011,Delivery
+Voivodeship,2020.1,świętokrzyskie,Takeaway,395,Delivery
+Voivodeship,2020.1,warmińsko-mazurskie,Takeaway,450,Delivery
+Voivodeship,2020.1,wielkopolskie,Takeaway,1145,Delivery
+Voivodeship,2020.1,zachodniopomorskie,Takeaway,419,Delivery
+Voivodeship,2018.2,dolnośląskie,Takeaway,263,Delivery
+Voivodeship,2018.2,kujawsko-pomorskie,Takeaway,288,Delivery
+Voivodeship,2018.2,lubelskie,Takeaway,438,Delivery
+Voivodeship,2018.2,lubuskie,Takeaway,203,Delivery
+Voivodeship,2018.2,łódzkie,Takeaway,398,Delivery
+Voivodeship,2018.2,małopolskie,Takeaway,968,Delivery
+Voivodeship,2018.2,mazowieckie,Takeaway,3535,Delivery
+Voivodeship,2018.2,opolskie,Takeaway,373,Delivery
+Voivodeship,2018.2,podkarpackie,Takeaway,107,Delivery
+Voivodeship,2018.2,podlaskie,Takeaway,211,Delivery
+Voivodeship,2018.2,pomorskie,Takeaway,454,Delivery
+Voivodeship,2018.2,śląskie,Takeaway,622,Delivery
+Voivodeship,2018.2,świętokrzyskie,Takeaway,203,Delivery
+Voivodeship,2018.2,warmińsko-mazurskie,Takeaway,162,Delivery
+Voivodeship,2018.2,wielkopolskie,Takeaway,735,Delivery
+Voivodeship,2018.2,zachodniopomorskie,Takeaway,329,Delivery
+Voivodeship,2019.2,dolnośląskie,Takeaway,471,Delivery
+Voivodeship,2019.2,kujawsko-pomorskie,Takeaway,443,Delivery
+Voivodeship,2019.2,lubelskie,Takeaway,629,Delivery
+Voivodeship,2019.2,lubuskie,Takeaway,414,Delivery
+Voivodeship,2019.2,łódzkie,Takeaway,671,Delivery
+Voivodeship,2019.2,małopolskie,Takeaway,1339,Delivery
+Voivodeship,2019.2,mazowieckie,Takeaway,2996,Delivery
+Voivodeship,2019.2,opolskie,Takeaway,658,Delivery
+Voivodeship,2019.2,podkarpackie,Takeaway,259,Delivery
+Voivodeship,2019.2,podlaskie,Takeaway,351,Delivery
+Voivodeship,2019.2,pomorskie,Takeaway,758,Delivery
+Voivodeship,2019.2,śląskie,Takeaway,876,Delivery
+Voivodeship,2019.2,świętokrzyskie,Takeaway,318,Delivery
+Voivodeship,2019.2,warmińsko-mazurskie,Takeaway,322,Delivery
+Voivodeship,2019.2,wielkopolskie,Takeaway,1004,Delivery
+Voivodeship,2019.2,zachodniopomorskie,Takeaway,389,Delivery
+Voivodeship,2020.2,dolnośląskie,Takeaway,540,Delivery
+Voivodeship,2020.2,kujawsko-pomorskie,Takeaway,573,Delivery
+Voivodeship,2020.2,lubelskie,Takeaway,958,Delivery
+Voivodeship,2020.2,lubuskie,Takeaway,642,Delivery
+Voivodeship,2020.2,łódzkie,Takeaway,908,Delivery
+Voivodeship,2020.2,małopolskie,Takeaway,1619,Delivery
+Voivodeship,2020.2,mazowieckie,Takeaway,1878,Delivery
+Voivodeship,2020.2,opolskie,Takeaway,912,Delivery
+Voivodeship,2020.2,podkarpackie,Takeaway,459,Delivery
+Voivodeship,2020.2,podlaskie,Takeaway,630,Delivery
+Voivodeship,2020.2,pomorskie,Takeaway,1035,Delivery
+Voivodeship,2020.2,śląskie,Takeaway,1106,Delivery
+Voivodeship,2020.2,świętokrzyskie,Takeaway,442,Delivery
+Voivodeship,2020.2,warmińsko-mazurskie,Takeaway,533,Delivery
+Voivodeship,2020.2,wielkopolskie,Takeaway,1288,Delivery
+Voivodeship,2020.2,zachodniopomorskie,Takeaway,387,Delivery
+Functional area,2018.1,Functional area - Białystok,Takeaway,153,Delivery
+Functional area,2019.1,Functional area - Białystok,Takeaway,277,Delivery
+Functional area,2020.1,Functional area - Białystok,Takeaway,488,Delivery
+Functional area,2018.2,Functional area - Białystok,Takeaway,211,Delivery
+Functional area,2019.2,Functional area - Białystok,Takeaway,351,Delivery
+Functional area,2020.2,Functional area - Białystok,Takeaway,630,Delivery
+Functional area,2018.1,Functional area - Bydgoszcz,Takeaway,101,Delivery
+Functional area,2019.1,Functional area - Bydgoszcz,Takeaway,184,Delivery
+Functional area,2020.1,Functional area - Bydgoszcz,Takeaway,262,Delivery
+Functional area,2018.2,Functional area - Bydgoszcz,Takeaway,144,Delivery
+Functional area,2019.2,Functional area - Bydgoszcz,Takeaway,234,Delivery
+Functional area,2020.2,Functional area - Bydgoszcz,Takeaway,297,Delivery
+Functional area,2018.1,Functional area - Gorzów Wielkopolski,Takeaway,45,Delivery
+Functional area,2019.1,Functional area - Gorzów Wielkopolski,Takeaway,130,Delivery
+Functional area,2020.1,Functional area - Gorzów Wielkopolski,Takeaway,228,Delivery
+Functional area,2018.2,Functional area - Gorzów Wielkopolski,Takeaway,92,Delivery
+Functional area,2019.2,Functional area - Gorzów Wielkopolski,Takeaway,192,Delivery
+Functional area,2020.2,Functional area - Gorzów Wielkopolski,Takeaway,293,Delivery
+Functional area,2018.1,Functional area - GZM,Takeaway,174,Delivery
+Functional area,2019.1,Functional area - GZM,Takeaway,317,Delivery
+Functional area,2020.1,Functional area - GZM,Takeaway,486,Delivery
+Functional area,2018.2,Functional area - GZM,Takeaway,237,Delivery
+Functional area,2019.2,Functional area - GZM,Takeaway,400,Delivery
+Functional area,2020.2,Functional area - GZM,Takeaway,558,Delivery
+Functional area,2018.1,Functional area - GZM2,Takeaway,176,Delivery
+Functional area,2019.1,Functional area - GZM2,Takeaway,305,Delivery
+Functional area,2020.1,Functional area - GZM2,Takeaway,482,Delivery
+Functional area,2018.2,Functional area - GZM2,Takeaway,232,Delivery
+Functional area,2019.2,Functional area - GZM2,Takeaway,406,Delivery
+Functional area,2020.2,Functional area - GZM2,Takeaway,544,Delivery
+Functional area,2018.1,Functional area - Kielce,Takeaway,128,Delivery
+Functional area,2019.1,Functional area - Kielce,Takeaway,271,Delivery
+Functional area,2020.1,Functional area - Kielce,Takeaway,395,Delivery
+Functional area,2018.2,Functional area - Kielce,Takeaway,203,Delivery
+Functional area,2019.2,Functional area - Kielce,Takeaway,318,Delivery
+Functional area,2020.2,Functional area - Kielce,Takeaway,442,Delivery
+Functional area,2018.1,Functional area - Kraków,Takeaway,854,Delivery
+Functional area,2019.1,Functional area - Kraków,Takeaway,1132,Delivery
+Functional area,2020.1,Functional area - Kraków,Takeaway,1476,Delivery
+Functional area,2018.2,Functional area - Kraków,Takeaway,968,Delivery
+Functional area,2019.2,Functional area - Kraków,Takeaway,1339,Delivery
+Functional area,2020.2,Functional area - Kraków,Takeaway,1619,Delivery
+Functional area,2018.1,Functional area - Łódź,Takeaway,307,Delivery
+Functional area,2019.1,Functional area - Łódź,Takeaway,527,Delivery
+Functional area,2020.1,Functional area - Łódź,Takeaway,827,Delivery
+Functional area,2018.2,Functional area - Łódź,Takeaway,398,Delivery
+Functional area,2019.2,Functional area - Łódź,Takeaway,671,Delivery
+Functional area,2020.2,Functional area - Łódź,Takeaway,908,Delivery
+Functional area,2018.1,Functional area - Lublin,Takeaway,356,Delivery
+Functional area,2019.1,Functional area - Lublin,Takeaway,513,Delivery
+Functional area,2020.1,Functional area - Lublin,Takeaway,795,Delivery
+Functional area,2018.2,Functional area - Lublin,Takeaway,438,Delivery
+Functional area,2019.2,Functional area - Lublin,Takeaway,629,Delivery
+Functional area,2020.2,Functional area - Lublin,Takeaway,958,Delivery
+Functional area,2018.1,Functional area - Olsztyn,Takeaway,89,Delivery
+Functional area,2019.1,Functional area - Olsztyn,Takeaway,211,Delivery
+Functional area,2020.1,Functional area - Olsztyn,Takeaway,450,Delivery
+Functional area,2018.2,Functional area - Olsztyn,Takeaway,162,Delivery
+Functional area,2019.2,Functional area - Olsztyn,Takeaway,322,Delivery
+Functional area,2020.2,Functional area - Olsztyn,Takeaway,533,Delivery
+Functional area,2018.1,Functional area - Opole,Takeaway,316,Delivery
+Functional area,2019.1,Functional area - Opole,Takeaway,500,Delivery
+Functional area,2020.1,Functional area - Opole,Takeaway,828,Delivery
+Functional area,2018.2,Functional area - Opole,Takeaway,373,Delivery
+Functional area,2019.2,Functional area - Opole,Takeaway,658,Delivery
+Functional area,2020.2,Functional area - Opole,Takeaway,912,Delivery
+Functional area,2018.1,Functional area - Poznań,Takeaway,598,Delivery
+Functional area,2019.1,Functional area - Poznań,Takeaway,912,Delivery
+Functional area,2020.1,Functional area - Poznań,Takeaway,1145,Delivery
+Functional area,2018.2,Functional area - Poznań,Takeaway,735,Delivery
+Functional area,2019.2,Functional area - Poznań,Takeaway,1004,Delivery
+Functional area,2020.2,Functional area - Poznań,Takeaway,1288,Delivery
+Functional area,2018.1,Functional area - Rzeszów,Takeaway,58,Delivery
+Functional area,2019.1,Functional area - Rzeszów,Takeaway,183,Delivery
+Functional area,2020.1,Functional area - Rzeszów,Takeaway,381,Delivery
+Functional area,2018.2,Functional area - Rzeszów,Takeaway,107,Delivery
+Functional area,2019.2,Functional area - Rzeszów,Takeaway,259,Delivery
+Functional area,2020.2,Functional area - Rzeszów,Takeaway,459,Delivery
+Functional area,2018.1,Functional area - Szczecin,Takeaway,243,Delivery
+Functional area,2019.1,Functional area - Szczecin,Takeaway,366,Delivery
+Functional area,2020.1,Functional area - Szczecin,Takeaway,419,Delivery
+Functional area,2018.2,Functional area - Szczecin,Takeaway,329,Delivery
+Functional area,2019.2,Functional area - Szczecin,Takeaway,389,Delivery
+Functional area,2020.2,Functional area - Szczecin,Takeaway,387,Delivery
+Functional area,2018.1,Functional area - Toruń,Takeaway,96,Delivery
+Functional area,2019.1,Functional area - Toruń,Takeaway,173,Delivery
+Functional area,2020.1,Functional area - Toruń,Takeaway,246,Delivery
+Functional area,2018.2,Functional area - Toruń,Takeaway,136,Delivery
+Functional area,2019.2,Functional area - Toruń,Takeaway,209,Delivery
+Functional area,2020.2,Functional area - Toruń,Takeaway,276,Delivery
+Functional area,2018.1,Functional area - Trójmiasto,Takeaway,364,Delivery
+Functional area,2019.1,Functional area - Trójmiasto,Takeaway,606,Delivery
+Functional area,2020.1,Functional area - Trójmiasto,Takeaway,929,Delivery
+Functional area,2018.2,Functional area - Trójmiasto,Takeaway,454,Delivery
+Functional area,2019.2,Functional area - Trójmiasto,Takeaway,758,Delivery
+Functional area,2020.2,Functional area - Trójmiasto,Takeaway,1035,Delivery
+Functional area,2018.1,Functional area - Warszawa,Takeaway,3585,Delivery
+Functional area,2019.1,Functional area - Warszawa,Takeaway,3389,Delivery
+Functional area,2020.1,Functional area - Warszawa,Takeaway,2589,Delivery
+Functional area,2018.2,Functional area - Warszawa,Takeaway,3535,Delivery
+Functional area,2019.2,Functional area - Warszawa,Takeaway,2996,Delivery
+Functional area,2020.2,Functional area - Warszawa,Takeaway,1878,Delivery
+Functional area,2018.1,Functional area - Wrocław,Takeaway,230,Delivery
+Functional area,2019.1,Functional area - Wrocław,Takeaway,400,Delivery
+Functional area,2020.1,Functional area - Wrocław,Takeaway,520,Delivery
+Functional area,2018.2,Functional area - Wrocław,Takeaway,263,Delivery
+Functional area,2019.2,Functional area - Wrocław,Takeaway,471,Delivery
+Functional area,2020.2,Functional area - Wrocław,Takeaway,540,Delivery
+Functional area,2018.1,Functional area - Zielona Góra,Takeaway,51,Delivery
+Functional area,2019.1,Functional area - Zielona Góra,Takeaway,140,Delivery
+Functional area,2020.1,Functional area - Zielona Góra,Takeaway,264,Delivery
+Functional area,2018.2,Functional area - Zielona Góra,Takeaway,110,Delivery
+Functional area,2019.2,Functional area - Zielona Góra,Takeaway,222,Delivery
+Functional area,2020.2,Functional area - Zielona Góra,Takeaway,348,Delivery
+Cities,2018.1,Wrocław,Takeaway,230,Delivery
+Cities,2018.1,Bydgoszcz,Takeaway,98,Delivery
+Cities,2018.1,Toruń,Takeaway,91,Delivery
+Cities,2018.1,Lublin,Takeaway,356,Delivery
+Cities,2018.1,Gorzów Wielkopolski,Takeaway,43,Delivery
+Cities,2018.1,Zielona Góra,Takeaway,51,Delivery
+Cities,2018.1,Warszawa,Takeaway,3585,Delivery
+Cities,2018.1,Kraków,Takeaway,854,Delivery
+Cities,2018.1,Opole,Takeaway,316,Delivery
+Cities,2018.1,Rzeszów,Takeaway,58,Delivery
+Cities,2018.1,Białystok,Takeaway,153,Delivery
+Cities,2018.1,Gdańsk,Takeaway,254,Delivery
+Cities,2018.1,Gdynia,Takeaway,79,Delivery
+Cities,2018.1,Sopot,Takeaway,62,Delivery
+Cities,2018.1,Olsztyn,Takeaway,89,Delivery
+Cities,2018.1,Poznań,Takeaway,598,Delivery
+Cities,2018.1,Szczecin,Takeaway,243,Delivery
+Cities,2018.1,Łódź,Takeaway,307,Delivery
+Cities,2018.1,Katowice,Takeaway,174,Delivery
+Cities,2018.1,Kielce,Takeaway,128,Delivery
+Cities,2019.1,Wrocław,Takeaway,400,Delivery
+Cities,2019.1,Bydgoszcz,Takeaway,177,Delivery
+Cities,2019.1,Toruń,Takeaway,164,Delivery
+Cities,2019.1,Lublin,Takeaway,513,Delivery
+Cities,2019.1,Gorzów Wielkopolski,Takeaway,125,Delivery
+Cities,2019.1,Zielona Góra,Takeaway,140,Delivery
+Cities,2019.1,Warszawa,Takeaway,3389,Delivery
+Cities,2019.1,Kraków,Takeaway,1132,Delivery
+Cities,2019.1,Opole,Takeaway,500,Delivery
+Cities,2019.1,Rzeszów,Takeaway,183,Delivery
+Cities,2019.1,Białystok,Takeaway,277,Delivery
+Cities,2019.1,Gdańsk,Takeaway,436,Delivery
+Cities,2019.1,Gdynia,Takeaway,136,Delivery
+Cities,2019.1,Sopot,Takeaway,108,Delivery
+Cities,2019.1,Olsztyn,Takeaway,211,Delivery
+Cities,2019.1,Poznań,Takeaway,912,Delivery
+Cities,2019.1,Szczecin,Takeaway,366,Delivery
+Cities,2019.1,Łódź,Takeaway,527,Delivery
+Cities,2019.1,Katowice,Takeaway,317,Delivery
+Cities,2019.1,Kielce,Takeaway,271,Delivery
+Cities,2020.1,Wrocław,Takeaway,520,Delivery
+Cities,2020.1,Bydgoszcz,Takeaway,261,Delivery
+Cities,2020.1,Toruń,Takeaway,242,Delivery
+Cities,2020.1,Lublin,Takeaway,795,Delivery
+Cities,2020.1,Gorzów Wielkopolski,Takeaway,235,Delivery
+Cities,2020.1,Zielona Góra,Takeaway,264,Delivery
+Cities,2020.1,Warszawa,Takeaway,2589,Delivery
+Cities,2020.1,Kraków,Takeaway,1476,Delivery
+Cities,2020.1,Opole,Takeaway,828,Delivery
+Cities,2020.1,Rzeszów,Takeaway,381,Delivery
+Cities,2020.1,Białystok,Takeaway,488,Delivery
+Cities,2020.1,Gdańsk,Takeaway,690,Delivery
+Cities,2020.1,Gdynia,Takeaway,217,Delivery
+Cities,2020.1,Sopot,Takeaway,173,Delivery
+Cities,2020.1,Olsztyn,Takeaway,450,Delivery
+Cities,2020.1,Poznań,Takeaway,1145,Delivery
+Cities,2020.1,Szczecin,Takeaway,419,Delivery
+Cities,2020.1,Łódź,Takeaway,827,Delivery
+Cities,2020.1,Katowice,Takeaway,486,Delivery
+Cities,2020.1,Kielce,Takeaway,395,Delivery
+Cities,2018.2,Wrocław,Takeaway,263,Delivery
+Cities,2018.2,Bydgoszcz,Takeaway,141,Delivery
+Cities,2018.2,Toruń,Takeaway,131,Delivery
+Cities,2018.2,Lublin,Takeaway,438,Delivery
+Cities,2018.2,Gorzów Wielkopolski,Takeaway,92,Delivery
+Cities,2018.2,Zielona Góra,Takeaway,109,Delivery
+Cities,2018.2,Warszawa,Takeaway,3535,Delivery
+Cities,2018.2,Kraków,Takeaway,968,Delivery
+Cities,2018.2,Opole,Takeaway,373,Delivery
+Cities,2018.2,Rzeszów,Takeaway,107,Delivery
+Cities,2018.2,Białystok,Takeaway,211,Delivery
+Cities,2018.2,Gdańsk,Takeaway,322,Delivery
+Cities,2018.2,Gdynia,Takeaway,100,Delivery
+Cities,2018.2,Sopot,Takeaway,80,Delivery
+Cities,2018.2,Olsztyn,Takeaway,162,Delivery
+Cities,2018.2,Poznań,Takeaway,735,Delivery
+Cities,2018.2,Szczecin,Takeaway,329,Delivery
+Cities,2018.2,Łódź,Takeaway,398,Delivery
+Cities,2018.2,Katowice,Takeaway,237,Delivery
+Cities,2018.2,Kielce,Takeaway,203,Delivery
+Cities,2019.2,Wrocław,Takeaway,471,Delivery
+Cities,2019.2,Bydgoszcz,Takeaway,223,Delivery
+Cities,2019.2,Toruń,Takeaway,207,Delivery
+Cities,2019.2,Lublin,Takeaway,629,Delivery
+Cities,2019.2,Gorzów Wielkopolski,Takeaway,195,Delivery
+Cities,2019.2,Zielona Góra,Takeaway,222,Delivery
+Cities,2019.2,Warszawa,Takeaway,2996,Delivery
+Cities,2019.2,Kraków,Takeaway,1339,Delivery
+Cities,2019.2,Opole,Takeaway,658,Delivery
+Cities,2019.2,Rzeszów,Takeaway,259,Delivery
+Cities,2019.2,Białystok,Takeaway,351,Delivery
+Cities,2019.2,Gdańsk,Takeaway,555,Delivery
+Cities,2019.2,Gdynia,Takeaway,174,Delivery
+Cities,2019.2,Sopot,Takeaway,139,Delivery
+Cities,2019.2,Olsztyn,Takeaway,322,Delivery
+Cities,2019.2,Poznań,Takeaway,1004,Delivery
+Cities,2019.2,Szczecin,Takeaway,389,Delivery
+Cities,2019.2,Łódź,Takeaway,671,Delivery
+Cities,2019.2,Katowice,Takeaway,400,Delivery
+Cities,2019.2,Kielce,Takeaway,318,Delivery
+Cities,2020.2,Wrocław,Takeaway,540,Delivery
+Cities,2020.2,Bydgoszcz,Takeaway,297,Delivery
+Cities,2020.2,Toruń,Takeaway,276,Delivery
+Cities,2020.2,Lublin,Takeaway,958,Delivery
+Cities,2020.2,Gorzów Wielkopolski,Takeaway,311,Delivery
+Cities,2020.2,Zielona Góra,Takeaway,348,Delivery
+Cities,2020.2,Warszawa,Takeaway,1878,Delivery
+Cities,2020.2,Kraków,Takeaway,1619,Delivery
+Cities,2020.2,Opole,Takeaway,912,Delivery
+Cities,2020.2,Rzeszów,Takeaway,459,Delivery
+Cities,2020.2,Białystok,Takeaway,630,Delivery
+Cities,2020.2,Gdańsk,Takeaway,778,Delivery
+Cities,2020.2,Gdynia,Takeaway,245,Delivery
+Cities,2020.2,Sopot,Takeaway,196,Delivery
+Cities,2020.2,Olsztyn,Takeaway,533,Delivery
+Cities,2020.2,Poznań,Takeaway,1288,Delivery
+Cities,2020.2,Szczecin,Takeaway,387,Delivery
+Cities,2020.2,Łódź,Takeaway,908,Delivery
+Cities,2020.2,Katowice,Takeaway,558,Delivery
+Cities,2020.2,Kielce,Takeaway,442,Delivery
+Voivodeship,2018.1,dolnośląskie,Uber,3597,Transportation
+Voivodeship,2018.1,łódzkie,Uber,1985,Transportation
+Voivodeship,2018.1,małopolskie,Uber,7911,Transportation
+Voivodeship,2018.1,mazowieckie,Uber,15585,Transportation
+Voivodeship,2018.1,pomorskie,Uber,1307,Transportation
+Voivodeship,2018.1,śląskie,Uber,2117,Transportation
+Voivodeship,2018.1,wielkopolskie,Uber,1365,Transportation
+Voivodeship,2019.1,dolnośląskie,Uber,4348,Transportation
+Voivodeship,2019.1,łódzkie,Uber,2377,Transportation
+Voivodeship,2019.1,małopolskie,Uber,9258,Transportation
+Voivodeship,2019.1,mazowieckie,Uber,18217,Transportation
+Voivodeship,2019.1,pomorskie,Uber,1561,Transportation
+Voivodeship,2019.1,śląskie,Uber,2657,Transportation
+Voivodeship,2019.1,wielkopolskie,Uber,1480,Transportation
+Voivodeship,2020.1,dolnośląskie,Uber,4898,Transportation
+Voivodeship,2020.1,łódzkie,Uber,3071,Transportation
+Voivodeship,2020.1,małopolskie,Uber,10363,Transportation
+Voivodeship,2020.1,mazowieckie,Uber,19124,Transportation
+Voivodeship,2020.1,pomorskie,Uber,2175,Transportation
+Voivodeship,2020.1,śląskie,Uber,3369,Transportation
+Voivodeship,2020.1,wielkopolskie,Uber,1371,Transportation
+Voivodeship,2018.2,dolnośląskie,Uber,4175,Transportation
+Voivodeship,2018.2,łódzkie,Uber,2388,Transportation
+Voivodeship,2018.2,małopolskie,Uber,8715,Transportation
+Voivodeship,2018.2,mazowieckie,Uber,15918,Transportation
+Voivodeship,2018.2,pomorskie,Uber,1545,Transportation
+Voivodeship,2018.2,śląskie,Uber,2530,Transportation
+Voivodeship,2018.2,wielkopolskie,Uber,1642,Transportation
+Voivodeship,2019.2,dolnośląskie,Uber,5071,Transportation
+Voivodeship,2019.2,łódzkie,Uber,2978,Transportation
+Voivodeship,2019.2,małopolskie,Uber,9746,Transportation
+Voivodeship,2019.2,mazowieckie,Uber,18495,Transportation
+Voivodeship,2019.2,pomorskie,Uber,1827,Transportation
+Voivodeship,2019.2,śląskie,Uber,3009,Transportation
+Voivodeship,2019.2,wielkopolskie,Uber,1179,Transportation
+Voivodeship,2020.2,dolnośląskie,Uber,5332,Transportation
+Voivodeship,2020.2,łódzkie,Uber,3275,Transportation
+Voivodeship,2020.2,małopolskie,Uber,10733,Transportation
+Voivodeship,2020.2,mazowieckie,Uber,20356,Transportation
+Voivodeship,2020.2,pomorskie,Uber,2121,Transportation
+Voivodeship,2020.2,śląskie,Uber,3283,Transportation
+Voivodeship,2020.2,wielkopolskie,Uber,954,Transportation
+Functional area,2018.1,Functional area - GZM,Uber,1075,Transportation
+Functional area,2019.1,Functional area - GZM,Uber,1189,Transportation
+Functional area,2020.1,Functional area - GZM,Uber,1489,Transportation
+Functional area,2018.2,Functional area - GZM,Uber,1122,Transportation
+Functional area,2019.2,Functional area - GZM,Uber,1400,Transportation
+Functional area,2020.2,Functional area - GZM,Uber,1578,Transportation
+Functional area,2018.1,Functional area - GZM2,Uber,991,Transportation
+Functional area,2019.1,Functional area - GZM2,Uber,1196,Transportation
+Functional area,2020.1,Functional area - GZM2,Uber,1590,Transportation
+Functional area,2018.2,Functional area - GZM2,Uber,1003,Transportation
+Functional area,2019.2,Functional area - GZM2,Uber,1410,Transportation
+Functional area,2020.2,Functional area - GZM2,Uber,1707,Transportation
+Functional area,2018.1,Functional area - Kraków,Uber,7545,Transportation
+Functional area,2019.1,Functional area - Kraków,Uber,7807,Transportation
+Functional area,2020.1,Functional area - Kraków,Uber,7577,Transportation
+Functional area,2018.2,Functional area - Kraków,Uber,7665,Transportation
+Functional area,2019.2,Functional area - Kraków,Uber,7567,Transportation
+Functional area,2020.2,Functional area - Kraków,Uber,7622,Transportation
+Functional area,2018.1,Functional area - Łódź,Uber,1758,Transportation
+Functional area,2019.1,Functional area - Łódź,Uber,2115,Transportation
+Functional area,2020.1,Functional area - Łódź,Uber,2487,Transportation
+Functional area,2018.2,Functional area - Łódź,Uber,1884,Transportation
+Functional area,2019.2,Functional area - Łódź,Uber,2280,Transportation
+Functional area,2020.2,Functional area - Łódź,Uber,2648,Transportation
+Functional area,2018.1,Functional area - Poznań,Uber,1365,Transportation
+Functional area,2019.1,Functional area - Poznań,Uber,1480,Transportation
+Functional area,2020.1,Functional area - Poznań,Uber,1371,Transportation
+Functional area,2018.2,Functional area - Poznań,Uber,1451,Transportation
+Functional area,2019.2,Functional area - Poznań,Uber,1179,Transportation
+Functional area,2020.2,Functional area - Poznań,Uber,954,Transportation
+Functional area,2018.1,Functional area - Trójmiasto,Uber,1307,Transportation
+Functional area,2019.1,Functional area - Trójmiasto,Uber,1561,Transportation
+Functional area,2020.1,Functional area - Trójmiasto,Uber,1867,Transportation
+Functional area,2018.2,Functional area - Trójmiasto,Uber,1436,Transportation
+Functional area,2019.2,Functional area - Trójmiasto,Uber,1637,Transportation
+Functional area,2020.2,Functional area - Trójmiasto,Uber,1875,Transportation
+Functional area,2018.1,Functional area - Warszawa,Uber,15585,Transportation
+Functional area,2019.1,Functional area - Warszawa,Uber,16268,Transportation
+Functional area,2020.1,Functional area - Warszawa,Uber,16997,Transportation
+Functional area,2018.2,Functional area - Warszawa,Uber,15918,Transportation
+Functional area,2019.2,Functional area - Warszawa,Uber,16779,Transportation
+Functional area,2020.2,Functional area - Warszawa,Uber,17012,Transportation
+Functional area,2018.1,Functional area - Wrocław,Uber,3597,Transportation
+Functional area,2019.1,Functional area - Wrocław,Uber,3987,Transportation
+Functional area,2020.1,Functional area - Wrocław,Uber,4142,Transportation
+Functional area,2018.2,Functional area - Wrocław,Uber,3750,Transportation
+Functional area,2019.2,Functional area - Wrocław,Uber,4135,Transportation
+Functional area,2020.2,Functional area - Wrocław,Uber,4296,Transportation
+Cities,2018.1,Wrocław,Uber,2975,Transportation
+Cities,2018.1,Warszawa,Uber,12598,Transportation
+Cities,2018.1,Kraków,Uber,6825,Transportation
+Cities,2018.1,Gdańsk,Uber,525,Transportation
+Cities,2018.1,Gdynia,Uber,348,Transportation
+Cities,2018.1,Sopot,Uber,135,Transportation
+Cities,2018.1,Poznań,Uber,857,Transportation
+Cities,2018.1,Łódź,Uber,1485,Transportation
+Cities,2018.1,Katowice,Uber,1075,Transportation
+Cities,2019.1,Wrocław,Uber,3231,Transportation
+Cities,2019.1,Warszawa,Uber,12767,Transportation
+Cities,2019.1,Kraków,Uber,6930,Transportation
+Cities,2019.1,Gdańsk,Uber,726,Transportation
+Cities,2019.1,Gdynia,Uber,439,Transportation
+Cities,2019.1,Sopot,Uber,292,Transportation
+Cities,2019.1,Poznań,Uber,883,Transportation
+Cities,2019.1,Łódź,Uber,1737,Transportation
+Cities,2019.1,Katowice,Uber,1189,Transportation
+Cities,2020.1,Wrocław,Uber,3087,Transportation
+Cities,2020.1,Warszawa,Uber,12675,Transportation
+Cities,2020.1,Kraków,Uber,6929,Transportation
+Cities,2020.1,Gdańsk,Uber,613,Transportation
+Cities,2020.1,Gdynia,Uber,625,Transportation
+Cities,2020.1,Sopot,Uber,160,Transportation
+Cities,2020.1,Poznań,Uber,952,Transportation
+Cities,2020.1,Łódź,Uber,1859,Transportation
+Cities,2020.1,Katowice,Uber,1489,Transportation
+Cities,2018.2,Wrocław,Uber,3120,Transportation
+Cities,2018.2,Warszawa,Uber,12677,Transportation
+Cities,2018.2,Kraków,Uber,6858,Transportation
+Cities,2018.2,Gdańsk,Uber,584,Transportation
+Cities,2018.2,Gdynia,Uber,368,Transportation
+Cities,2018.2,Sopot,Uber,185,Transportation
+Cities,2018.2,Poznań,Uber,817,Transportation
+Cities,2018.2,Łódź,Uber,1587,Transportation
+Cities,2018.2,Katowice,Uber,1122,Transportation
+Cities,2019.2,Wrocław,Uber,3115,Transportation
+Cities,2019.2,Warszawa,Uber,12660,Transportation
+Cities,2019.2,Kraków,Uber,6829,Transportation
+Cities,2019.2,Gdańsk,Uber,609,Transportation
+Cities,2019.2,Gdynia,Uber,565,Transportation
+Cities,2019.2,Sopot,Uber,272,Transportation
+Cities,2019.2,Poznań,Uber,828,Transportation
+Cities,2019.2,Łódź,Uber,1846,Transportation
+Cities,2019.2,Katowice,Uber,1400,Transportation
+Cities,2020.2,Wrocław,Uber,3217,Transportation
+Cities,2020.2,Warszawa,Uber,12637,Transportation
+Cities,2020.2,Kraków,Uber,6808,Transportation
+Cities,2020.2,Gdańsk,Uber,472,Transportation
+Cities,2020.2,Gdynia,Uber,479,Transportation
+Cities,2020.2,Sopot,Uber,80,Transportation
+Cities,2020.2,Poznań,Uber,835,Transportation
+Cities,2020.2,Łódź,Uber,1762,Transportation
+Cities,2020.2,Katowice,Uber,1578,Transportation
+Voivodeship,2018.1,dolnośląskie,Wolt,73,Delivery
+Voivodeship,2018.1,kujawsko-pomorskie,Wolt,106,Delivery
+Voivodeship,2018.1,lubelskie,Wolt,99,Delivery
+Voivodeship,2018.1,lubuskie,Wolt,27,Delivery
+Voivodeship,2018.1,łódzkie,Wolt,65,Delivery
+Voivodeship,2018.1,małopolskie,Wolt,361,Delivery
+Voivodeship,2018.1,mazowieckie,Wolt,978,Delivery
+Voivodeship,2018.1,opolskie,Wolt,109,Delivery
+Voivodeship,2018.1,podkarpackie,Wolt,71,Delivery
+Voivodeship,2018.1,podlaskie,Wolt,81,Delivery
+Voivodeship,2018.1,pomorskie,Wolt,106,Delivery
+Voivodeship,2018.1,śląskie,Wolt,194,Delivery
+Voivodeship,2018.1,świętokrzyskie,Wolt,32,Delivery
+Voivodeship,2018.1,warmińsko-mazurskie,Wolt,35,Delivery
+Voivodeship,2018.1,wielkopolskie,Wolt,161,Delivery
+Voivodeship,2018.1,zachodniopomorskie,Wolt,71,Delivery
+Voivodeship,2019.1,dolnośląskie,Wolt,103,Delivery
+Voivodeship,2019.1,kujawsko-pomorskie,Wolt,143,Delivery
+Voivodeship,2019.1,lubelskie,Wolt,146,Delivery
+Voivodeship,2019.1,lubuskie,Wolt,40,Delivery
+Voivodeship,2019.1,łódzkie,Wolt,88,Delivery
+Voivodeship,2019.1,małopolskie,Wolt,497,Delivery
+Voivodeship,2019.1,mazowieckie,Wolt,1275,Delivery
+Voivodeship,2019.1,opolskie,Wolt,147,Delivery
+Voivodeship,2019.1,podkarpackie,Wolt,105,Delivery
+Voivodeship,2019.1,podlaskie,Wolt,123,Delivery
+Voivodeship,2019.1,pomorskie,Wolt,150,Delivery
+Voivodeship,2019.1,śląskie,Wolt,260,Delivery
+Voivodeship,2019.1,świętokrzyskie,Wolt,45,Delivery
+Voivodeship,2019.1,warmińsko-mazurskie,Wolt,57,Delivery
+Voivodeship,2019.1,wielkopolskie,Wolt,225,Delivery
+Voivodeship,2019.1,zachodniopomorskie,Wolt,24,Delivery
+Voivodeship,2020.1,dolnośląskie,Wolt,143,Delivery
+Voivodeship,2020.1,kujawsko-pomorskie,Wolt,198,Delivery
+Voivodeship,2020.1,lubelskie,Wolt,204,Delivery
+Voivodeship,2020.1,lubuskie,Wolt,57,Delivery
+Voivodeship,2020.1,łódzkie,Wolt,123,Delivery
+Voivodeship,2020.1,małopolskie,Wolt,684,Delivery
+Voivodeship,2020.1,mazowieckie,Wolt,1680,Delivery
+Voivodeship,2020.1,opolskie,Wolt,205,Delivery
+Voivodeship,2020.1,podkarpackie,Wolt,146,Delivery
+Voivodeship,2020.1,podlaskie,Wolt,174,Delivery
+Voivodeship,2020.1,pomorskie,Wolt,209,Delivery
+Voivodeship,2020.1,śląskie,Wolt,361,Delivery
+Voivodeship,2020.1,świętokrzyskie,Wolt,65,Delivery
+Voivodeship,2020.1,warmińsko-mazurskie,Wolt,82,Delivery
+Voivodeship,2020.1,wielkopolskie,Wolt,312,Delivery
+Voivodeship,2020.1,zachodniopomorskie,Wolt,71,Delivery
+Voivodeship,2018.2,dolnośląskie,Wolt,87,Delivery
+Voivodeship,2018.2,kujawsko-pomorskie,Wolt,121,Delivery
+Voivodeship,2018.2,lubelskie,Wolt,124,Delivery
+Voivodeship,2018.2,lubuskie,Wolt,33,Delivery
+Voivodeship,2018.2,łódzkie,Wolt,75,Delivery
+Voivodeship,2018.2,małopolskie,Wolt,424,Delivery
+Voivodeship,2018.2,mazowieckie,Wolt,1086,Delivery
+Voivodeship,2018.2,opolskie,Wolt,126,Delivery
+Voivodeship,2018.2,podkarpackie,Wolt,89,Delivery
+Voivodeship,2018.2,podlaskie,Wolt,104,Delivery
+Voivodeship,2018.2,pomorskie,Wolt,127,Delivery
+Voivodeship,2018.2,śląskie,Wolt,221,Delivery
+Voivodeship,2018.2,świętokrzyskie,Wolt,37,Delivery
+Voivodeship,2018.2,warmińsko-mazurskie,Wolt,49,Delivery
+Voivodeship,2018.2,wielkopolskie,Wolt,191,Delivery
+Voivodeship,2018.2,zachodniopomorskie,Wolt,31,Delivery
+Voivodeship,2019.2,dolnośląskie,Wolt,114,Delivery
+Voivodeship,2019.2,kujawsko-pomorskie,Wolt,158,Delivery
+Voivodeship,2019.2,lubelskie,Wolt,162,Delivery
+Voivodeship,2019.2,lubuskie,Wolt,44,Delivery
+Voivodeship,2019.2,łódzkie,Wolt,98,Delivery
+Voivodeship,2019.2,małopolskie,Wolt,548,Delivery
+Voivodeship,2019.2,mazowieckie,Wolt,1404,Delivery
+Voivodeship,2019.2,opolskie,Wolt,164,Delivery
+Voivodeship,2019.2,podkarpackie,Wolt,116,Delivery
+Voivodeship,2019.2,podlaskie,Wolt,138,Delivery
+Voivodeship,2019.2,pomorskie,Wolt,167,Delivery
+Voivodeship,2019.2,śląskie,Wolt,288,Delivery
+Voivodeship,2019.2,świętokrzyskie,Wolt,51,Delivery
+Voivodeship,2019.2,warmińsko-mazurskie,Wolt,64,Delivery
+Voivodeship,2019.2,wielkopolskie,Wolt,248,Delivery
+Voivodeship,2019.2,zachodniopomorskie,Wolt,12,Delivery
+Voivodeship,2020.2,dolnośląskie,Wolt,173,Delivery
+Voivodeship,2020.2,kujawsko-pomorskie,Wolt,239,Delivery
+Voivodeship,2020.2,lubelskie,Wolt,244,Delivery
+Voivodeship,2020.2,lubuskie,Wolt,69,Delivery
+Voivodeship,2020.2,łódzkie,Wolt,148,Delivery
+Voivodeship,2020.2,małopolskie,Wolt,820,Delivery
+Voivodeship,2020.2,mazowieckie,Wolt,2029,Delivery
+Voivodeship,2020.2,opolskie,Wolt,247,Delivery
+Voivodeship,2020.2,podkarpackie,Wolt,177,Delivery
+Voivodeship,2020.2,podlaskie,Wolt,210,Delivery
+Voivodeship,2020.2,pomorskie,Wolt,252,Delivery
+Voivodeship,2020.2,śląskie,Wolt,433,Delivery
+Voivodeship,2020.2,świętokrzyskie,Wolt,78,Delivery
+Voivodeship,2020.2,warmińsko-mazurskie,Wolt,98,Delivery
+Voivodeship,2020.2,wielkopolskie,Wolt,374,Delivery
+Voivodeship,2020.2,zachodniopomorskie,Wolt,54,Delivery
+Functional area,2018.1,Functional area - Białystok,Wolt,79,Delivery
+Functional area,2019.1,Functional area - Białystok,Wolt,123,Delivery
+Functional area,2020.1,Functional area - Białystok,Wolt,172,Delivery
+Functional area,2018.2,Functional area - Białystok,Wolt,104,Delivery
+Functional area,2019.2,Functional area - Białystok,Wolt,136,Delivery
+Functional area,2020.2,Functional area - Białystok,Wolt,208,Delivery
+Functional area,2018.1,Functional area - Bydgoszcz,Wolt,46,Delivery
+Functional area,2019.1,Functional area - Bydgoszcz,Wolt,62,Delivery
+Functional area,2020.1,Functional area - Bydgoszcz,Wolt,87,Delivery
+Functional area,2018.2,Functional area - Bydgoszcz,Wolt,53,Delivery
+Functional area,2019.2,Functional area - Bydgoszcz,Wolt,68,Delivery
+Functional area,2020.2,Functional area - Bydgoszcz,Wolt,105,Delivery
+Functional area,2018.1,Functional area - Gorzów Wielkopolski,Wolt,11,Delivery
+Functional area,2019.1,Functional area - Gorzów Wielkopolski,Wolt,17,Delivery
+Functional area,2020.1,Functional area - Gorzów Wielkopolski,Wolt,24,Delivery
+Functional area,2018.2,Functional area - Gorzów Wielkopolski,Wolt,13,Delivery
+Functional area,2019.2,Functional area - Gorzów Wielkopolski,Wolt,19,Delivery
+Functional area,2020.2,Functional area - Gorzów Wielkopolski,Wolt,30,Delivery
+Functional area,2018.1,Functional area - GZM,Wolt,44,Delivery
+Functional area,2019.1,Functional area - GZM,Wolt,63,Delivery
+Functional area,2020.1,Functional area - GZM,Wolt,89,Delivery
+Functional area,2018.2,Functional area - GZM,Wolt,55,Delivery
+Functional area,2019.2,Functional area - GZM,Wolt,71,Delivery
+Functional area,2020.2,Functional area - GZM,Wolt,106,Delivery
+Functional area,2018.1,Functional area - GZM2,Wolt,45,Delivery
+Functional area,2019.1,Functional area - GZM2,Wolt,65,Delivery
+Functional area,2020.1,Functional area - GZM2,Wolt,92,Delivery
+Functional area,2018.2,Functional area - GZM2,Wolt,56,Delivery
+Functional area,2019.2,Functional area - GZM2,Wolt,72,Delivery
+Functional area,2020.2,Functional area - GZM2,Wolt,110,Delivery
+Functional area,2018.1,Functional area - Kielce,Wolt,31,Delivery
+Functional area,2019.1,Functional area - Kielce,Wolt,44,Delivery
+Functional area,2020.1,Functional area - Kielce,Wolt,64,Delivery
+Functional area,2018.2,Functional area - Kielce,Wolt,36,Delivery
+Functional area,2019.2,Functional area - Kielce,Wolt,50,Delivery
+Functional area,2020.2,Functional area - Kielce,Wolt,76,Delivery
+Functional area,2018.1,Functional area - Kraków,Wolt,355,Delivery
+Functional area,2019.1,Functional area - Kraków,Wolt,496,Delivery
+Functional area,2020.1,Functional area - Kraków,Wolt,683,Delivery
+Functional area,2018.2,Functional area - Kraków,Wolt,415,Delivery
+Functional area,2019.2,Functional area - Kraków,Wolt,536,Delivery
+Functional area,2020.2,Functional area - Kraków,Wolt,807,Delivery
+Functional area,2018.1,Functional area - Łódź,Wolt,64,Delivery
+Functional area,2019.1,Functional area - Łódź,Wolt,86,Delivery
+Functional area,2020.1,Functional area - Łódź,Wolt,121,Delivery
+Functional area,2018.2,Functional area - Łódź,Wolt,72,Delivery
+Functional area,2019.2,Functional area - Łódź,Wolt,94,Delivery
+Functional area,2020.2,Functional area - Łódź,Wolt,143,Delivery
+Functional area,2018.1,Functional area - Lublin,Wolt,92,Delivery
+Functional area,2019.1,Functional area - Lublin,Wolt,137,Delivery
+Functional area,2020.1,Functional area - Lublin,Wolt,194,Delivery
+Functional area,2018.2,Functional area - Lublin,Wolt,115,Delivery
+Functional area,2019.2,Functional area - Lublin,Wolt,153,Delivery
+Functional area,2020.2,Functional area - Lublin,Wolt,226,Delivery
+Functional area,2018.1,Functional area - Olsztyn,Wolt,32,Delivery
+Functional area,2019.1,Functional area - Olsztyn,Wolt,54,Delivery
+Functional area,2020.1,Functional area - Olsztyn,Wolt,78,Delivery
+Functional area,2018.2,Functional area - Olsztyn,Wolt,45,Delivery
+Functional area,2019.2,Functional area - Olsztyn,Wolt,61,Delivery
+Functional area,2020.2,Functional area - Olsztyn,Wolt,91,Delivery
+Functional area,2018.1,Functional area - Opole,Wolt,107,Delivery
+Functional area,2019.1,Functional area - Opole,Wolt,143,Delivery
+Functional area,2020.1,Functional area - Opole,Wolt,205,Delivery
+Functional area,2018.2,Functional area - Opole,Wolt,126,Delivery
+Functional area,2019.2,Functional area - Opole,Wolt,162,Delivery
+Functional area,2020.2,Functional area - Opole,Wolt,240,Delivery
+Functional area,2018.1,Functional area - Poznań,Wolt,161,Delivery
+Functional area,2019.1,Functional area - Poznań,Wolt,225,Delivery
+Functional area,2020.1,Functional area - Poznań,Wolt,312,Delivery
+Functional area,2018.2,Functional area - Poznań,Wolt,191,Delivery
+Functional area,2019.2,Functional area - Poznań,Wolt,248,Delivery
+Functional area,2020.2,Functional area - Poznań,Wolt,374,Delivery
+Functional area,2018.1,Functional area - Rzeszów,Wolt,68,Delivery
+Functional area,2019.1,Functional area - Rzeszów,Wolt,101,Delivery
+Functional area,2020.1,Functional area - Rzeszów,Wolt,141,Delivery
+Functional area,2018.2,Functional area - Rzeszów,Wolt,86,Delivery
+Functional area,2019.2,Functional area - Rzeszów,Wolt,113,Delivery
+Functional area,2020.2,Functional area - Rzeszów,Wolt,172,Delivery
+Functional area,2018.1,Functional area - Szczecin,Wolt,71,Delivery
+Functional area,2019.1,Functional area - Szczecin,Wolt,23,Delivery
+Functional area,2020.1,Functional area - Szczecin,Wolt,71,Delivery
+Functional area,2018.2,Functional area - Szczecin,Wolt,31,Delivery
+Functional area,2019.2,Functional area - Szczecin,Wolt,12,Delivery
+Functional area,2020.2,Functional area - Szczecin,Wolt,52,Delivery
+Functional area,2018.1,Functional area - Toruń,Wolt,44,Delivery
+Functional area,2019.1,Functional area - Toruń,Wolt,59,Delivery
+Functional area,2020.1,Functional area - Toruń,Wolt,82,Delivery
+Functional area,2018.2,Functional area - Toruń,Wolt,49,Delivery
+Functional area,2019.2,Functional area - Toruń,Wolt,65,Delivery
+Functional area,2020.2,Functional area - Toruń,Wolt,97,Delivery
+Functional area,2018.1,Functional area - Trójmiasto,Wolt,101,Delivery
+Functional area,2019.1,Functional area - Trójmiasto,Wolt,145,Delivery
+Functional area,2020.1,Functional area - Trójmiasto,Wolt,202,Delivery
+Functional area,2018.2,Functional area - Trójmiasto,Wolt,123,Delivery
+Functional area,2019.2,Functional area - Trójmiasto,Wolt,162,Delivery
+Functional area,2020.2,Functional area - Trójmiasto,Wolt,245,Delivery
+Functional area,2018.1,Functional area - Warszawa,Wolt,958,Delivery
+Functional area,2019.1,Functional area - Warszawa,Wolt,1275,Delivery
+Functional area,2020.1,Functional area - Warszawa,Wolt,1672,Delivery
+Functional area,2018.2,Functional area - Warszawa,Wolt,1070,Delivery
+Functional area,2019.2,Functional area - Warszawa,Wolt,1403,Delivery
+Functional area,2020.2,Functional area - Warszawa,Wolt,2013,Delivery
+Functional area,2018.1,Functional area - Wrocław,Wolt,70,Delivery
+Functional area,2019.1,Functional area - Wrocław,Wolt,101,Delivery
+Functional area,2020.1,Functional area - Wrocław,Wolt,141,Delivery
+Functional area,2018.2,Functional area - Wrocław,Wolt,86,Delivery
+Functional area,2019.2,Functional area - Wrocław,Wolt,111,Delivery
+Functional area,2020.2,Functional area - Wrocław,Wolt,168,Delivery
+Functional area,2018.1,Functional area - Zielona Góra,Wolt,13,Delivery
+Functional area,2019.1,Functional area - Zielona Góra,Wolt,19,Delivery
+Functional area,2020.1,Functional area - Zielona Góra,Wolt,27,Delivery
+Functional area,2018.2,Functional area - Zielona Góra,Wolt,16,Delivery
+Functional area,2019.2,Functional area - Zielona Góra,Wolt,21,Delivery
+Functional area,2020.2,Functional area - Zielona Góra,Wolt,32,Delivery
+Cities,2018.1,Wrocław,Wolt,70,Delivery
+Cities,2018.1,Bydgoszcz,Wolt,45,Delivery
+Cities,2018.1,Toruń,Wolt,42,Delivery
+Cities,2018.1,Lublin,Wolt,92,Delivery
+Cities,2018.1,Gorzów Wielkopolski,Wolt,11,Delivery
+Cities,2018.1,Zielona Góra,Wolt,12,Delivery
+Cities,2018.1,Warszawa,Wolt,946,Delivery
+Cities,2018.1,Kraków,Wolt,349,Delivery
+Cities,2018.1,Opole,Wolt,105,Delivery
+Cities,2018.1,Rzeszów,Wolt,68,Delivery
+Cities,2018.1,Białystok,Wolt,79,Delivery
+Cities,2018.1,Gdańsk,Wolt,65,Delivery
+Cities,2018.1,Gdynia,Wolt,20,Delivery
+Cities,2018.1,Sopot,Wolt,16,Delivery
+Cities,2018.1,Olsztyn,Wolt,32,Delivery
+Cities,2018.1,Poznań,Wolt,150,Delivery
+Cities,2018.1,Szczecin,Wolt,68,Delivery
+Cities,2018.1,Łódź,Wolt,61,Delivery
+Cities,2018.1,Katowice,Wolt,44,Delivery
+Cities,2018.1,Kielce,Wolt,31,Delivery
+Cities,2019.1,Wrocław,Wolt,98,Delivery
+Cities,2019.1,Bydgoszcz,Wolt,61,Delivery
+Cities,2019.1,Toruń,Wolt,56,Delivery
+Cities,2019.1,Lublin,Wolt,136,Delivery
+Cities,2019.1,Gorzów Wielkopolski,Wolt,16,Delivery
+Cities,2019.1,Zielona Góra,Wolt,19,Delivery
+Cities,2019.1,Warszawa,Wolt,1240,Delivery
+Cities,2019.1,Kraków,Wolt,483,Delivery
+Cities,2019.1,Opole,Wolt,143,Delivery
+Cities,2019.1,Rzeszów,Wolt,101,Delivery
+Cities,2019.1,Białystok,Wolt,121,Delivery
+Cities,2019.1,Gdańsk,Wolt,93,Delivery
+Cities,2019.1,Gdynia,Wolt,29,Delivery
+Cities,2019.1,Sopot,Wolt,23,Delivery
+Cities,2019.1,Olsztyn,Wolt,53,Delivery
+Cities,2019.1,Poznań,Wolt,212,Delivery
+Cities,2019.1,Szczecin,Wolt,23,Delivery
+Cities,2019.1,Łódź,Wolt,84,Delivery
+Cities,2019.1,Katowice,Wolt,63,Delivery
+Cities,2019.1,Kielce,Wolt,44,Delivery
+Cities,2020.1,Wrocław,Wolt,138,Delivery
+Cities,2020.1,Bydgoszcz,Wolt,85,Delivery
+Cities,2020.1,Toruń,Wolt,79,Delivery
+Cities,2020.1,Lublin,Wolt,190,Delivery
+Cities,2020.1,Gorzów Wielkopolski,Wolt,23,Delivery
+Cities,2020.1,Zielona Góra,Wolt,27,Delivery
+Cities,2020.1,Warszawa,Wolt,1639,Delivery
+Cities,2020.1,Kraków,Wolt,667,Delivery
+Cities,2020.1,Opole,Wolt,200,Delivery
+Cities,2020.1,Rzeszów,Wolt,141,Delivery
+Cities,2020.1,Białystok,Wolt,171,Delivery
+Cities,2020.1,Gdańsk,Wolt,130,Delivery
+Cities,2020.1,Gdynia,Wolt,40,Delivery
+Cities,2020.1,Sopot,Wolt,32,Delivery
+Cities,2020.1,Olsztyn,Wolt,75,Delivery
+Cities,2020.1,Poznań,Wolt,294,Delivery
+Cities,2020.1,Szczecin,Wolt,68,Delivery
+Cities,2020.1,Łódź,Wolt,117,Delivery
+Cities,2020.1,Katowice,Wolt,89,Delivery
+Cities,2020.1,Kielce,Wolt,62,Delivery
+Cities,2018.2,Wrocław,Wolt,84,Delivery
+Cities,2018.2,Bydgoszcz,Wolt,51,Delivery
+Cities,2018.2,Toruń,Wolt,48,Delivery
+Cities,2018.2,Lublin,Wolt,115,Delivery
+Cities,2018.2,Gorzów Wielkopolski,Wolt,13,Delivery
+Cities,2018.2,Zielona Góra,Wolt,15,Delivery
+Cities,2018.2,Warszawa,Wolt,1057,Delivery
+Cities,2018.2,Kraków,Wolt,412,Delivery
+Cities,2018.2,Opole,Wolt,122,Delivery
+Cities,2018.2,Rzeszów,Wolt,85,Delivery
+Cities,2018.2,Białystok,Wolt,102,Delivery
+Cities,2018.2,Gdańsk,Wolt,79,Delivery
+Cities,2018.2,Gdynia,Wolt,25,Delivery
+Cities,2018.2,Sopot,Wolt,19,Delivery
+Cities,2018.2,Olsztyn,Wolt,45,Delivery
+Cities,2018.2,Poznań,Wolt,180,Delivery
+Cities,2018.2,Szczecin,Wolt,30,Delivery
+Cities,2018.2,Łódź,Wolt,71,Delivery
+Cities,2018.2,Katowice,Wolt,55,Delivery
+Cities,2018.2,Kielce,Wolt,36,Delivery
+Cities,2019.2,Wrocław,Wolt,109,Delivery
+Cities,2019.2,Bydgoszcz,Wolt,67,Delivery
+Cities,2019.2,Toruń,Wolt,63,Delivery
+Cities,2019.2,Lublin,Wolt,151,Delivery
+Cities,2019.2,Gorzów Wielkopolski,Wolt,18,Delivery
+Cities,2019.2,Zielona Góra,Wolt,21,Delivery
+Cities,2019.2,Warszawa,Wolt,1371,Delivery
+Cities,2019.2,Kraków,Wolt,535,Delivery
+Cities,2019.2,Opole,Wolt,160,Delivery
+Cities,2019.2,Rzeszów,Wolt,112,Delivery
+Cities,2019.2,Białystok,Wolt,136,Delivery
+Cities,2019.2,Gdańsk,Wolt,104,Delivery
+Cities,2019.2,Gdynia,Wolt,32,Delivery
+Cities,2019.2,Sopot,Wolt,26,Delivery
+Cities,2019.2,Olsztyn,Wolt,59,Delivery
+Cities,2019.2,Poznań,Wolt,235,Delivery
+Cities,2019.2,Szczecin,Wolt,12,Delivery
+Cities,2019.2,Łódź,Wolt,93,Delivery
+Cities,2019.2,Katowice,Wolt,71,Delivery
+Cities,2019.2,Kielce,Wolt,49,Delivery
+Cities,2020.2,Wrocław,Wolt,165,Delivery
+Cities,2020.2,Bydgoszcz,Wolt,101,Delivery
+Cities,2020.2,Toruń,Wolt,94,Delivery
+Cities,2020.2,Lublin,Wolt,226,Delivery
+Cities,2020.2,Gorzów Wielkopolski,Wolt,27,Delivery
+Cities,2020.2,Zielona Góra,Wolt,32,Delivery
+Cities,2020.2,Warszawa,Wolt,1956,Delivery
+Cities,2020.2,Kraków,Wolt,792,Delivery
+Cities,2020.2,Opole,Wolt,238,Delivery
+Cities,2020.2,Rzeszów,Wolt,169,Delivery
+Cities,2020.2,Białystok,Wolt,205,Delivery
+Cities,2020.2,Gdańsk,Wolt,156,Delivery
+Cities,2020.2,Gdynia,Wolt,48,Delivery
+Cities,2020.2,Sopot,Wolt,38,Delivery
+Cities,2020.2,Olsztyn,Wolt,90,Delivery
+Cities,2020.2,Poznań,Wolt,350,Delivery
+Cities,2020.2,Szczecin,Wolt,52,Delivery
+Cities,2020.2,Łódź,Wolt,140,Delivery
+Cities,2020.2,Katowice,Wolt,106,Delivery
+Cities,2020.2,Kielce,Wolt,75,Delivery
+Voivodeship,2018.1,dolnośląskie,iTaxi,1033,Transportation
+Voivodeship,2018.1,kujawsko-pomorskie,iTaxi,398,Transportation
+Voivodeship,2018.1,lubelskie,iTaxi,279,Transportation
+Voivodeship,2018.1,lubuskie,iTaxi,246,Transportation
+Voivodeship,2018.1,łódzkie,iTaxi,501,Transportation
+Voivodeship,2018.1,małopolskie,iTaxi,1465,Transportation
+Voivodeship,2018.1,mazowieckie,iTaxi,5129,Transportation
+Voivodeship,2018.1,opolskie,iTaxi,335,Transportation
+Voivodeship,2018.1,podkarpackie,iTaxi,149,Transportation
+Voivodeship,2018.1,podlaskie,iTaxi,75,Transportation
+Voivodeship,2018.1,pomorskie,iTaxi,712,Transportation
+Voivodeship,2018.1,śląskie,iTaxi,1007,Transportation
+Voivodeship,2018.1,świętokrzyskie,iTaxi,127,Transportation
+Voivodeship,2018.1,warmińsko-mazurskie,iTaxi,133,Transportation
+Voivodeship,2018.1,wielkopolskie,iTaxi,704,Transportation
+Voivodeship,2018.1,zachodniopomorskie,iTaxi,698,Transportation
+Voivodeship,2019.1,dolnośląskie,iTaxi,1398,Transportation
+Voivodeship,2019.1,kujawsko-pomorskie,iTaxi,460,Transportation
+Voivodeship,2019.1,lubelskie,iTaxi,400,Transportation
+Voivodeship,2019.1,lubuskie,iTaxi,365,Transportation
+Voivodeship,2019.1,łódzkie,iTaxi,1005,Transportation
+Voivodeship,2019.1,małopolskie,iTaxi,2075,Transportation
+Voivodeship,2019.1,mazowieckie,iTaxi,7071,Transportation
+Voivodeship,2019.1,opolskie,iTaxi,626,Transportation
+Voivodeship,2019.1,podkarpackie,iTaxi,189,Transportation
+Voivodeship,2019.1,podlaskie,iTaxi,21,Transportation
+Voivodeship,2019.1,pomorskie,iTaxi,971,Transportation
+Voivodeship,2019.1,śląskie,iTaxi,1378,Transportation
+Voivodeship,2019.1,świętokrzyskie,iTaxi,179,Transportation
+Voivodeship,2019.1,warmińsko-mazurskie,iTaxi,167,Transportation
+Voivodeship,2019.1,wielkopolskie,iTaxi,962,Transportation
+Voivodeship,2019.1,zachodniopomorskie,iTaxi,1091,Transportation
+Voivodeship,2020.1,dolnośląskie,iTaxi,1828,Transportation
+Voivodeship,2020.1,kujawsko-pomorskie,iTaxi,559,Transportation
+Voivodeship,2020.1,lubelskie,iTaxi,358,Transportation
+Voivodeship,2020.1,lubuskie,iTaxi,386,Transportation
+Voivodeship,2020.1,łódzkie,iTaxi,1328,Transportation
+Voivodeship,2020.1,małopolskie,iTaxi,2670,Transportation
+Voivodeship,2020.1,mazowieckie,iTaxi,9423,Transportation
+Voivodeship,2020.1,opolskie,iTaxi,872,Transportation
+Voivodeship,2020.1,podkarpackie,iTaxi,363,Transportation
+Voivodeship,2020.1,podlaskie,iTaxi,130,Transportation
+Voivodeship,2020.1,pomorskie,iTaxi,1020,Transportation
+Voivodeship,2020.1,śląskie,iTaxi,1428,Transportation
+Voivodeship,2020.1,świętokrzyskie,iTaxi,178,Transportation
+Voivodeship,2020.1,warmińsko-mazurskie,iTaxi,352,Transportation
+Voivodeship,2020.1,wielkopolskie,iTaxi,1391,Transportation
+Voivodeship,2020.1,zachodniopomorskie,iTaxi,1253,Transportation
+Voivodeship,2018.2,dolnośląskie,iTaxi,1254,Transportation
+Voivodeship,2018.2,kujawsko-pomorskie,iTaxi,455,Transportation
+Voivodeship,2018.2,lubelskie,iTaxi,402,Transportation
+Voivodeship,2018.2,lubuskie,iTaxi,285,Transportation
+Voivodeship,2018.2,łódzkie,iTaxi,654,Transportation
+Voivodeship,2018.2,małopolskie,iTaxi,1735,Transportation
+Voivodeship,2018.2,mazowieckie,iTaxi,5459,Transportation
+Voivodeship,2018.2,opolskie,iTaxi,556,Transportation
+Voivodeship,2018.2,podkarpackie,iTaxi,345,Transportation
+Voivodeship,2018.2,podlaskie,iTaxi,175,Transportation
+Voivodeship,2018.2,pomorskie,iTaxi,943,Transportation
+Voivodeship,2018.2,śląskie,iTaxi,1267,Transportation
+Voivodeship,2018.2,świętokrzyskie,iTaxi,276,Transportation
+Voivodeship,2018.2,warmińsko-mazurskie,iTaxi,322,Transportation
+Voivodeship,2018.2,wielkopolskie,iTaxi,914,Transportation
+Voivodeship,2018.2,zachodniopomorskie,iTaxi,947,Transportation
+Voivodeship,2019.2,dolnośląskie,iTaxi,1686,Transportation
+Voivodeship,2019.2,kujawsko-pomorskie,iTaxi,516,Transportation
+Voivodeship,2019.2,lubelskie,iTaxi,527,Transportation
+Voivodeship,2019.2,lubuskie,iTaxi,522,Transportation
+Voivodeship,2019.2,łódzkie,iTaxi,1365,Transportation
+Voivodeship,2019.2,małopolskie,iTaxi,2327,Transportation
+Voivodeship,2019.2,mazowieckie,iTaxi,7660,Transportation
+Voivodeship,2019.2,opolskie,iTaxi,892,Transportation
+Voivodeship,2019.2,podkarpackie,iTaxi,352,Transportation
+Voivodeship,2019.2,podlaskie,iTaxi,111,Transportation
+Voivodeship,2019.2,pomorskie,iTaxi,1137,Transportation
+Voivodeship,2019.2,śląskie,iTaxi,1299,Transportation
+Voivodeship,2019.2,świętokrzyskie,iTaxi,360,Transportation
+Voivodeship,2019.2,warmińsko-mazurskie,iTaxi,360,Transportation
+Voivodeship,2019.2,wielkopolskie,iTaxi,1080,Transportation
+Voivodeship,2019.2,zachodniopomorskie,iTaxi,1221,Transportation
+Voivodeship,2020.2,dolnośląskie,iTaxi,1974,Transportation
+Voivodeship,2020.2,kujawsko-pomorskie,iTaxi,623,Transportation
+Voivodeship,2020.2,lubelskie,iTaxi,363,Transportation
+Voivodeship,2020.2,lubuskie,iTaxi,584,Transportation
+Voivodeship,2020.2,łódzkie,iTaxi,1425,Transportation
+Voivodeship,2020.2,małopolskie,iTaxi,2724,Transportation
+Voivodeship,2020.2,mazowieckie,iTaxi,9259,Transportation
+Voivodeship,2020.2,opolskie,iTaxi,998,Transportation
+Voivodeship,2020.2,podkarpackie,iTaxi,537,Transportation
+Voivodeship,2020.2,podlaskie,iTaxi,209,Transportation
+Voivodeship,2020.2,pomorskie,iTaxi,1320,Transportation
+Voivodeship,2020.2,śląskie,iTaxi,1601,Transportation
+Voivodeship,2020.2,świętokrzyskie,iTaxi,344,Transportation
+Voivodeship,2020.2,warmińsko-mazurskie,iTaxi,429,Transportation
+Voivodeship,2020.2,wielkopolskie,iTaxi,1529,Transportation
+Voivodeship,2020.2,zachodniopomorskie,iTaxi,1426,Transportation
+Functional area,2018.1,Functional area - Białystok,iTaxi,65,Transportation
+Functional area,2019.1,Functional area - Białystok,iTaxi,21,Transportation
+Functional area,2020.1,Functional area - Białystok,iTaxi,130,Transportation
+Functional area,2018.2,Functional area - Białystok,iTaxi,145,Transportation
+Functional area,2019.2,Functional area - Białystok,iTaxi,111,Transportation
+Functional area,2020.2,Functional area - Białystok,iTaxi,96,Transportation
+Functional area,2018.1,Functional area - Bydgoszcz,iTaxi,201,Transportation
+Functional area,2019.1,Functional area - Bydgoszcz,iTaxi,406,Transportation
+Functional area,2020.1,Functional area - Bydgoszcz,iTaxi,546,Transportation
+Functional area,2018.2,Functional area - Bydgoszcz,iTaxi,338,Transportation
+Functional area,2019.2,Functional area - Bydgoszcz,iTaxi,398,Transportation
+Functional area,2020.2,Functional area - Bydgoszcz,iTaxi,412,Transportation
+Functional area,2018.1,Functional area - Gorzów Wielkopolski,iTaxi,105,Transportation
+Functional area,2019.1,Functional area - Gorzów Wielkopolski,iTaxi,127,Transportation
+Functional area,2020.1,Functional area - Gorzów Wielkopolski,iTaxi,149,Transportation
+Functional area,2018.2,Functional area - Gorzów Wielkopolski,iTaxi,20,Transportation
+Functional area,2019.2,Functional area - Gorzów Wielkopolski,iTaxi,99,Transportation
+Functional area,2020.2,Functional area - Gorzów Wielkopolski,iTaxi,122,Transportation
+Functional area,2018.1,Functional area - GZM,iTaxi,425,Transportation
+Functional area,2019.1,Functional area - GZM,iTaxi,589,Transportation
+Functional area,2020.1,Functional area - GZM,iTaxi,574,Transportation
+Functional area,2018.2,Functional area - GZM,iTaxi,543,Transportation
+Functional area,2019.2,Functional area - GZM,iTaxi,471,Transportation
+Functional area,2020.2,Functional area - GZM,iTaxi,482,Transportation
+Functional area,2018.1,Functional area - GZM2,iTaxi,447,Transportation
+Functional area,2019.1,Functional area - GZM2,iTaxi,581,Transportation
+Functional area,2020.1,Functional area - GZM2,iTaxi,504,Transportation
+Functional area,2018.2,Functional area - GZM2,iTaxi,533,Transportation
+Functional area,2019.2,Functional area - GZM2,iTaxi,487,Transportation
+Functional area,2020.2,Functional area - GZM2,iTaxi,481,Transportation
+Functional area,2018.1,Functional area - Kielce,iTaxi,110,Transportation
+Functional area,2019.1,Functional area - Kielce,iTaxi,179,Transportation
+Functional area,2020.1,Functional area - Kielce,iTaxi,178,Transportation
+Functional area,2018.2,Functional area - Kielce,iTaxi,251,Transportation
+Functional area,2019.2,Functional area - Kielce,iTaxi,225,Transportation
+Functional area,2020.2,Functional area - Kielce,iTaxi,222,Transportation
+Functional area,2018.1,Functional area - Kraków,iTaxi,1270,Transportation
+Functional area,2019.1,Functional area - Kraków,iTaxi,1455,Transportation
+Functional area,2020.1,Functional area - Kraków,iTaxi,1448,Transportation
+Functional area,2018.2,Functional area - Kraków,iTaxi,1343,Transportation
+Functional area,2019.2,Functional area - Kraków,iTaxi,1338,Transportation
+Functional area,2020.2,Functional area - Kraków,iTaxi,1359,Transportation
+Functional area,2018.1,Functional area - Łódź,iTaxi,435,Transportation
+Functional area,2019.1,Functional area - Łódź,iTaxi,712,Transportation
+Functional area,2020.1,Functional area - Łódź,iTaxi,719,Transportation
+Functional area,2018.2,Functional area - Łódź,iTaxi,567,Transportation
+Functional area,2019.2,Functional area - Łódź,iTaxi,705,Transportation
+Functional area,2020.2,Functional area - Łódź,iTaxi,648,Transportation
+Functional area,2018.1,Functional area - Lublin,iTaxi,213,Transportation
+Functional area,2019.1,Functional area - Lublin,iTaxi,400,Transportation
+Functional area,2020.1,Functional area - Lublin,iTaxi,358,Transportation
+Functional area,2018.2,Functional area - Lublin,iTaxi,345,Transportation
+Functional area,2019.2,Functional area - Lublin,iTaxi,437,Transportation
+Functional area,2020.2,Functional area - Lublin,iTaxi,344,Transportation
+Functional area,2018.1,Functional area - Olsztyn,iTaxi,115,Transportation
+Functional area,2019.1,Functional area - Olsztyn,iTaxi,167,Transportation
+Functional area,2020.1,Functional area - Olsztyn,iTaxi,352,Transportation
+Functional area,2018.2,Functional area - Olsztyn,iTaxi,203,Transportation
+Functional area,2019.2,Functional area - Olsztyn,iTaxi,360,Transportation
+Functional area,2020.2,Functional area - Olsztyn,iTaxi,390,Transportation
+Functional area,2018.1,Functional area - Opole,iTaxi,290,Transportation
+Functional area,2019.1,Functional area - Opole,iTaxi,478,Transportation
+Functional area,2020.1,Functional area - Opole,iTaxi,507,Transportation
+Functional area,2018.2,Functional area - Opole,iTaxi,436,Transportation
+Functional area,2019.2,Functional area - Opole,iTaxi,463,Transportation
+Functional area,2020.2,Functional area - Opole,iTaxi,373,Transportation
+Functional area,2018.1,Functional area - Poznań,iTaxi,610,Transportation
+Functional area,2019.1,Functional area - Poznań,iTaxi,761,Transportation
+Functional area,2020.1,Functional area - Poznań,iTaxi,732,Transportation
+Functional area,2018.2,Functional area - Poznań,iTaxi,705,Transportation
+Functional area,2019.2,Functional area - Poznań,iTaxi,623,Transportation
+Functional area,2020.2,Functional area - Poznań,iTaxi,635,Transportation
+Functional area,2018.1,Functional area - Rzeszów,iTaxi,129,Transportation
+Functional area,2019.1,Functional area - Rzeszów,iTaxi,189,Transportation
+Functional area,2020.1,Functional area - Rzeszów,iTaxi,199,Transportation
+Functional area,2018.2,Functional area - Rzeszów,iTaxi,198,Transportation
+Functional area,2019.2,Functional area - Rzeszów,iTaxi,199,Transportation
+Functional area,2020.2,Functional area - Rzeszów,iTaxi,179,Transportation
+Functional area,2018.1,Functional area - Szczecin,iTaxi,605,Transportation
+Functional area,2019.1,Functional area - Szczecin,iTaxi,585,Transportation
+Functional area,2020.1,Functional area - Szczecin,iTaxi,599,Transportation
+Functional area,2018.2,Functional area - Szczecin,iTaxi,554,Transportation
+Functional area,2019.2,Functional area - Szczecin,iTaxi,517,Transportation
+Functional area,2020.2,Functional area - Szczecin,iTaxi,461,Transportation
+Functional area,2018.1,Functional area - Toruń,iTaxi,143,Transportation
+Functional area,2019.1,Functional area - Toruń,iTaxi,317,Transportation
+Functional area,2020.1,Functional area - Toruń,iTaxi,331,Transportation
+Functional area,2018.2,Functional area - Toruń,iTaxi,272,Transportation
+Functional area,2019.2,Functional area - Toruń,iTaxi,310,Transportation
+Functional area,2020.2,Functional area - Toruń,iTaxi,312,Transportation
+Functional area,2018.1,Functional area - Trójmiasto,iTaxi,617,Transportation
+Functional area,2019.1,Functional area - Trójmiasto,iTaxi,785,Transportation
+Functional area,2020.1,Functional area - Trójmiasto,iTaxi,632,Transportation
+Functional area,2018.2,Functional area - Trójmiasto,iTaxi,707,Transportation
+Functional area,2019.2,Functional area - Trójmiasto,iTaxi,754,Transportation
+Functional area,2020.2,Functional area - Trójmiasto,iTaxi,549,Transportation
+Functional area,2018.1,Functional area - Warszawa,iTaxi,4445,Transportation
+Functional area,2019.1,Functional area - Warszawa,iTaxi,4590,Transportation
+Functional area,2020.1,Functional area - Warszawa,iTaxi,4640,Transportation
+Functional area,2018.2,Functional area - Warszawa,iTaxi,4449,Transportation
+Functional area,2019.2,Functional area - Warszawa,iTaxi,4532,Transportation
+Functional area,2020.2,Functional area - Warszawa,iTaxi,4570,Transportation
+Functional area,2018.1,Functional area - Wrocław,iTaxi,895,Transportation
+Functional area,2019.1,Functional area - Wrocław,iTaxi,1009,Transportation
+Functional area,2020.1,Functional area - Wrocław,iTaxi,1051,Transportation
+Functional area,2018.2,Functional area - Wrocław,iTaxi,969,Transportation
+Functional area,2019.2,Functional area - Wrocław,iTaxi,957,Transportation
+Functional area,2020.2,Functional area - Wrocław,iTaxi,987,Transportation
+Functional area,2018.1,Functional area - Zielona Góra,iTaxi,100,Transportation
+Functional area,2019.1,Functional area - Zielona Góra,iTaxi,340,Transportation
+Functional area,2020.1,Functional area - Zielona Góra,iTaxi,256,Transportation
+Functional area,2018.2,Functional area - Zielona Góra,iTaxi,193,Transportation
+Functional area,2019.2,Functional area - Zielona Góra,iTaxi,217,Transportation
+Functional area,2020.2,Functional area - Zielona Góra,iTaxi,178,Transportation
+Cities,2018.1,Wrocław,iTaxi,658,Transportation
+Cities,2018.1,Bydgoszcz,iTaxi,152,Transportation
+Cities,2018.1,Toruń,iTaxi,126,Transportation
+Cities,2018.1,Lublin,iTaxi,169,Transportation
+Cities,2018.1,Gorzów Wielkopolski,iTaxi,96,Transportation
+Cities,2018.1,Zielona Góra,iTaxi,102,Transportation
+Cities,2018.1,Warszawa,iTaxi,3545,Transportation
+Cities,2018.1,Kraków,iTaxi,1105,Transportation
+Cities,2018.1,Opole,iTaxi,254,Transportation
+Cities,2018.1,Rzeszów,iTaxi,124,Transportation
+Cities,2018.1,Białystok,iTaxi,49,Transportation
+Cities,2018.1,Gdańsk,iTaxi,206,Transportation
+Cities,2018.1,Gdynia,iTaxi,168,Transportation
+Cities,2018.1,Sopot,iTaxi,211,Transportation
+Cities,2018.1,Olsztyn,iTaxi,105,Transportation
+Cities,2018.1,Poznań,iTaxi,568,Transportation
+Cities,2018.1,Szczecin,iTaxi,586,Transportation
+Cities,2018.1,Łódź,iTaxi,425,Transportation
+Cities,2018.1,Katowice,iTaxi,425,Transportation
+Cities,2018.1,Kielce,iTaxi,96,Transportation
+Cities,2019.1,Wrocław,iTaxi,954,Transportation
+Cities,2019.1,Bydgoszcz,iTaxi,173,Transportation
+Cities,2019.1,Toruń,iTaxi,297,Transportation
+Cities,2019.1,Lublin,iTaxi,320,Transportation
+Cities,2019.1,Gorzów Wielkopolski,iTaxi,248,Transportation
+Cities,2019.1,Zielona Góra,iTaxi,196,Transportation
+Cities,2019.1,Warszawa,iTaxi,3670,Transportation
+Cities,2019.1,Kraków,iTaxi,1143,Transportation
+Cities,2019.1,Opole,iTaxi,478,Transportation
+Cities,2019.1,Rzeszów,iTaxi,59,Transportation
+Cities,2019.1,Białystok,iTaxi,21,Transportation
+Cities,2019.1,Gdańsk,iTaxi,106,Transportation
+Cities,2019.1,Gdynia,iTaxi,404,Transportation
+Cities,2019.1,Sopot,iTaxi,303,Transportation
+Cities,2019.1,Olsztyn,iTaxi,167,Transportation
+Cities,2019.1,Poznań,iTaxi,693,Transportation
+Cities,2019.1,Szczecin,iTaxi,585,Transportation
+Cities,2019.1,Łódź,iTaxi,507,Transportation
+Cities,2019.1,Katowice,iTaxi,589,Transportation
+Cities,2019.1,Kielce,iTaxi,160,Transportation
+Cities,2020.1,Wrocław,iTaxi,940,Transportation
+Cities,2020.1,Bydgoszcz,iTaxi,188,Transportation
+Cities,2020.1,Toruń,iTaxi,378,Transportation
+Cities,2020.1,Lublin,iTaxi,358,Transportation
+Cities,2020.1,Gorzów Wielkopolski,iTaxi,256,Transportation
+Cities,2020.1,Zielona Góra,iTaxi,119,Transportation
+Cities,2020.1,Warszawa,iTaxi,3708,Transportation
+Cities,2020.1,Kraków,iTaxi,1079,Transportation
+Cities,2020.1,Opole,iTaxi,401,Transportation
+Cities,2020.1,Rzeszów,iTaxi,48,Transportation
+Cities,2020.1,Białystok,iTaxi,130,Transportation
+Cities,2020.1,Gdańsk,iTaxi,115,Transportation
+Cities,2020.1,Gdynia,iTaxi,408,Transportation
+Cities,2020.1,Sopot,iTaxi,315,Transportation
+Cities,2020.1,Olsztyn,iTaxi,259,Transportation
+Cities,2020.1,Poznań,iTaxi,639,Transportation
+Cities,2020.1,Szczecin,iTaxi,599,Transportation
+Cities,2020.1,Łódź,iTaxi,515,Transportation
+Cities,2020.1,Katowice,iTaxi,574,Transportation
+Cities,2020.1,Kielce,iTaxi,58,Transportation
+Cities,2018.2,Wrocław,iTaxi,807,Transportation
+Cities,2018.2,Bydgoszcz,iTaxi,171,Transportation
+Cities,2018.2,Toruń,iTaxi,224,Transportation
+Cities,2018.2,Lublin,iTaxi,224,Transportation
+Cities,2018.2,Gorzów Wielkopolski,iTaxi,169,Transportation
+Cities,2018.2,Zielona Góra,iTaxi,112,Transportation
+Cities,2018.2,Warszawa,iTaxi,3616,Transportation
+Cities,2018.2,Kraków,iTaxi,1116,Transportation
+Cities,2018.2,Opole,iTaxi,347,Transportation
+Cities,2018.2,Rzeszów,iTaxi,47,Transportation
+Cities,2018.2,Białystok,iTaxi,51,Transportation
+Cities,2018.2,Gdańsk,iTaxi,74,Transportation
+Cities,2018.2,Gdynia,iTaxi,317,Transportation
+Cities,2018.2,Sopot,iTaxi,286,Transportation
+Cities,2018.2,Olsztyn,iTaxi,203,Transportation
+Cities,2018.2,Poznań,iTaxi,619,Transportation
+Cities,2018.2,Szczecin,iTaxi,554,Transportation
+Cities,2018.2,Łódź,iTaxi,474,Transportation
+Cities,2018.2,Katowice,iTaxi,543,Transportation
+Cities,2018.2,Kielce,iTaxi,138,Transportation
+Cities,2019.2,Wrocław,iTaxi,923,Transportation
+Cities,2019.2,Bydgoszcz,iTaxi,83,Transportation
+Cities,2019.2,Toruń,iTaxi,279,Transportation
+Cities,2019.2,Lublin,iTaxi,405,Transportation
+Cities,2019.2,Gorzów Wielkopolski,iTaxi,192,Transportation
+Cities,2019.2,Zielona Góra,iTaxi,81,Transportation
+Cities,2019.2,Warszawa,iTaxi,3628,Transportation
+Cities,2019.2,Kraków,iTaxi,1023,Transportation
+Cities,2019.2,Opole,iTaxi,366,Transportation
+Cities,2019.2,Rzeszów,iTaxi,67,Transportation
+Cities,2019.2,Białystok,iTaxi,63,Transportation
+Cities,2019.2,Gdańsk,iTaxi,6,Transportation
+Cities,2019.2,Gdynia,iTaxi,359,Transportation
+Cities,2019.2,Sopot,iTaxi,286,Transportation
+Cities,2019.2,Olsztyn,iTaxi,206,Transportation
+Cities,2019.2,Poznań,iTaxi,623,Transportation
+Cities,2019.2,Szczecin,iTaxi,517,Transportation
+Cities,2019.2,Łódź,iTaxi,428,Transportation
+Cities,2019.2,Katowice,iTaxi,471,Transportation
+Cities,2019.2,Kielce,iTaxi,36,Transportation
+Cities,2020.2,Wrocław,iTaxi,931,Transportation
+Cities,2020.2,Bydgoszcz,iTaxi,178,Transportation
+Cities,2020.2,Toruń,iTaxi,370,Transportation
+Cities,2020.2,Lublin,iTaxi,344,Transportation
+Cities,2020.2,Gorzów Wielkopolski,iTaxi,178,Transportation
+Cities,2020.2,Zielona Góra,iTaxi,178,Transportation
+Cities,2020.2,Warszawa,iTaxi,3692,Transportation
+Cities,2020.2,Kraków,iTaxi,994,Transportation
+Cities,2020.2,Opole,iTaxi,310,Transportation
+Cities,2020.2,Rzeszów,iTaxi,41,Transportation
+Cities,2020.2,Białystok,iTaxi,96,Transportation
+Cities,2020.2,Gdańsk,iTaxi,104,Transportation
+Cities,2020.2,Gdynia,iTaxi,373,Transportation
+Cities,2020.2,Sopot,iTaxi,179,Transportation
+Cities,2020.2,Olsztyn,iTaxi,190,Transportation
+Cities,2020.2,Poznań,iTaxi,506,Transportation
+Cities,2020.2,Szczecin,iTaxi,461,Transportation
+Cities,2020.2,Łódź,iTaxi,405,Transportation
+Cities,2020.2,Katowice,iTaxi,482,Transportation
+Cities,2020.2,Kielce,iTaxi,12,Transportation
+Voivodeship,2020.1,dolnośląskie,Bolt Courier,36,Delivery
+Voivodeship,2020.1,kujawsko-pomorskie,Bolt Courier,7,Delivery
+Voivodeship,2020.1,lubelskie,Bolt Courier,9,Delivery
+Voivodeship,2020.1,lubuskie,Bolt Courier,2,Delivery
+Voivodeship,2020.1,łódzkie,Bolt Courier,16,Delivery
+Voivodeship,2020.1,małopolskie,Bolt Courier,89,Delivery
+Voivodeship,2020.1,mazowieckie,Bolt Courier,390,Delivery
+Voivodeship,2020.1,opolskie,Bolt Courier,9,Delivery
+Voivodeship,2020.1,podkarpackie,Bolt Courier,3,Delivery
+Voivodeship,2020.1,podlaskie,Bolt Courier,8,Delivery
+Voivodeship,2020.1,pomorskie,Bolt Courier,21,Delivery
+Voivodeship,2020.1,śląskie,Bolt Courier,28,Delivery
+Voivodeship,2020.1,warmińsko-mazurskie,Bolt Courier,10,Delivery
+Voivodeship,2020.1,wielkopolskie,Bolt Courier,34,Delivery
+Voivodeship,2020.1,zachodniopomorskie,Bolt Courier,29,Delivery
+Voivodeship,2020.2,dolnośląskie,Bolt Courier,80,Delivery
+Voivodeship,2020.2,kujawsko-pomorskie,Bolt Courier,27,Delivery
+Voivodeship,2020.2,lubelskie,Bolt Courier,19,Delivery
+Voivodeship,2020.2,lubuskie,Bolt Courier,13,Delivery
+Voivodeship,2020.2,łódzkie,Bolt Courier,34,Delivery
+Voivodeship,2020.2,małopolskie,Bolt Courier,173,Delivery
+Voivodeship,2020.2,mazowieckie,Bolt Courier,541,Delivery
+Voivodeship,2020.2,opolskie,Bolt Courier,30,Delivery
+Voivodeship,2020.2,podkarpackie,Bolt Courier,23,Delivery
+Voivodeship,2020.2,podlaskie,Bolt Courier,24,Delivery
+Voivodeship,2020.2,pomorskie,Bolt Courier,51,Delivery
+Voivodeship,2020.2,śląskie,Bolt Courier,67,Delivery
+Voivodeship,2020.2,świętokrzyskie,Bolt Courier,18,Delivery
+Voivodeship,2020.2,warmińsko-mazurskie,Bolt Courier,22,Delivery
+Voivodeship,2020.2,wielkopolskie,Bolt Courier,64,Delivery
+Voivodeship,2020.2,zachodniopomorskie,Bolt Courier,57,Delivery
+Functional area,2020.1,Functional area - Białystok,Bolt Courier,8,Delivery
+Functional area,2020.2,Functional area - Białystok,Bolt Courier,24,Delivery
+Functional area,2020.1,Functional area - Bydgoszcz,Bolt Courier,3,Delivery
+Functional area,2020.2,Functional area - Bydgoszcz,Bolt Courier,12,Delivery
+Functional area,2020.1,Functional area - Gorzów Wielkopolski,Bolt Courier,1,Delivery
+Functional area,2020.2,Functional area - Gorzów Wielkopolski,Bolt Courier,5,Delivery
+Functional area,2020.1,Functional area - GZM,Bolt Courier,9,Delivery
+Functional area,2020.2,Functional area - GZM,Bolt Courier,21,Delivery
+Functional area,2020.1,Functional area - GZM2,Bolt Courier,10,Delivery
+Functional area,2020.2,Functional area - GZM2,Bolt Courier,22,Delivery
+Functional area,2020.2,Functional area - Kielce,Bolt Courier,18,Delivery
+Functional area,2020.1,Functional area - Kraków,Bolt Courier,88,Delivery
+Functional area,2020.2,Functional area - Kraków,Bolt Courier,171,Delivery
+Functional area,2020.1,Functional area - Łódź,Bolt Courier,15,Delivery
+Functional area,2020.2,Functional area - Łódź,Bolt Courier,34,Delivery
+Functional area,2020.1,Functional area - Lublin,Bolt Courier,8,Delivery
+Functional area,2020.2,Functional area - Lublin,Bolt Courier,18,Delivery
+Functional area,2020.1,Functional area - Olsztyn,Bolt Courier,9,Delivery
+Functional area,2020.2,Functional area - Olsztyn,Bolt Courier,20,Delivery
+Functional area,2020.1,Functional area - Opole,Bolt Courier,9,Delivery
+Functional area,2020.2,Functional area - Opole,Bolt Courier,30,Delivery
+Functional area,2020.1,Functional area - Poznań,Bolt Courier,34,Delivery
+Functional area,2020.2,Functional area - Poznań,Bolt Courier,64,Delivery
+Functional area,2020.1,Functional area - Rzeszów,Bolt Courier,3,Delivery
+Functional area,2020.2,Functional area - Rzeszów,Bolt Courier,23,Delivery
+Functional area,2020.1,Functional area - Szczecin,Bolt Courier,29,Delivery
+Functional area,2020.2,Functional area - Szczecin,Bolt Courier,56,Delivery
+Functional area,2020.1,Functional area - Toruń,Bolt Courier,3,Delivery
+Functional area,2020.2,Functional area - Toruń,Bolt Courier,12,Delivery
+Functional area,2020.1,Functional area - Trójmiasto,Bolt Courier,21,Delivery
+Functional area,2020.2,Functional area - Trójmiasto,Bolt Courier,51,Delivery
+Functional area,2020.1,Functional area - Warszawa,Bolt Courier,389,Delivery
+Functional area,2020.2,Functional area - Warszawa,Bolt Courier,541,Delivery
+Functional area,2020.1,Functional area - Wrocław,Bolt Courier,35,Delivery
+Functional area,2020.2,Functional area - Wrocław,Bolt Courier,79,Delivery
+Functional area,2020.1,Functional area - Zielona Góra,Bolt Courier,1,Delivery
+Functional area,2020.2,Functional area - Zielona Góra,Bolt Courier,6,Delivery
+Cities,2020.1,Wrocław,Bolt Courier,35,Delivery
+Cities,2020.1,Bydgoszcz,Bolt Courier,3,Delivery
+Cities,2020.1,Toruń,Bolt Courier,3,Delivery
+Cities,2020.1,Lublin,Bolt Courier,8,Delivery
+Cities,2020.1,Gorzów Wielkopolski,Bolt Courier,1,Delivery
+Cities,2020.1,Zielona Góra,Bolt Courier,1,Delivery
+Cities,2020.1,Warszawa,Bolt Courier,382,Delivery
+Cities,2020.1,Kraków,Bolt Courier,87,Delivery
+Cities,2020.1,Opole,Bolt Courier,8,Delivery
+Cities,2020.1,Rzeszów,Bolt Courier,3,Delivery
+Cities,2020.1,Białystok,Bolt Courier,8,Delivery
+Cities,2020.1,Gdańsk,Bolt Courier,13,Delivery
+Cities,2020.1,Gdynia,Bolt Courier,4,Delivery
+Cities,2020.1,Sopot,Bolt Courier,3,Delivery
+Cities,2020.1,Olsztyn,Bolt Courier,9,Delivery
+Cities,2020.1,Poznań,Bolt Courier,32,Delivery
+Cities,2020.1,Szczecin,Bolt Courier,28,Delivery
+Cities,2020.1,Łódź,Bolt Courier,15,Delivery
+Cities,2020.1,Katowice,Bolt Courier,9,Delivery
+Cities,2020.2,Wrocław,Bolt Courier,78,Delivery
+Cities,2020.2,Bydgoszcz,Bolt Courier,12,Delivery
+Cities,2020.2,Toruń,Bolt Courier,11,Delivery
+Cities,2020.2,Lublin,Bolt Courier,18,Delivery
+Cities,2020.2,Gorzów Wielkopolski,Bolt Courier,5,Delivery
+Cities,2020.2,Zielona Góra,Bolt Courier,6,Delivery
+Cities,2020.2,Warszawa,Bolt Courier,533,Delivery
+Cities,2020.2,Kraków,Bolt Courier,170,Delivery
+Cities,2020.2,Opole,Bolt Courier,30,Delivery
+Cities,2020.2,Rzeszów,Bolt Courier,22,Delivery
+Cities,2020.2,Białystok,Bolt Courier,24,Delivery
+Cities,2020.2,Gdańsk,Bolt Courier,32,Delivery
+Cities,2020.2,Gdynia,Bolt Courier,10,Delivery
+Cities,2020.2,Sopot,Bolt Courier,8,Delivery
+Cities,2020.2,Olsztyn,Bolt Courier,20,Delivery
+Cities,2020.2,Poznań,Bolt Courier,62,Delivery
+Cities,2020.2,Szczecin,Bolt Courier,55,Delivery
+Cities,2020.2,Łódź,Bolt Courier,33,Delivery
+Cities,2020.2,Katowice,Bolt Courier,21,Delivery
+Cities,2020.2,Kielce,Bolt Courier,18,Delivery
+Voivodeship,2020.1,dolnośląskie,Glover,313,Delivery
+Voivodeship,2020.1,kujawsko-pomorskie,Glover,91,Delivery
+Voivodeship,2020.1,lubelskie,Glover,116,Delivery
+Voivodeship,2020.1,łódzkie,Glover,159,Delivery
+Voivodeship,2020.1,małopolskie,Glover,603,Delivery
+Voivodeship,2020.1,mazowieckie,Glover,1583,Delivery
+Voivodeship,2020.1,opolskie,Glover,128,Delivery
+Voivodeship,2020.1,podkarpackie,Glover,12,Delivery
+Voivodeship,2020.1,podlaskie,Glover,28,Delivery
+Voivodeship,2020.1,pomorskie,Glover,160,Delivery
+Voivodeship,2020.1,śląskie,Glover,250,Delivery
+Voivodeship,2020.1,świętokrzyskie,Glover,29,Delivery
+Voivodeship,2020.1,warmińsko-mazurskie,Glover,51,Delivery
+Voivodeship,2020.1,wielkopolskie,Glover,255,Delivery
+Voivodeship,2020.1,zachodniopomorskie,Glover,508,Delivery
+Voivodeship,2019.2,dolnośląskie,Glover,153,Delivery
+Voivodeship,2019.2,kujawsko-pomorskie,Glover,29,Delivery
+Voivodeship,2019.2,lubelskie,Glover,53,Delivery
+Voivodeship,2019.2,lubuskie,Glover,12,Delivery
+Voivodeship,2019.2,łódzkie,Glover,65,Delivery
+Voivodeship,2019.2,małopolskie,Glover,326,Delivery
+Voivodeship,2019.2,mazowieckie,Glover,1121,Delivery
+Voivodeship,2019.2,opolskie,Glover,47,Delivery
+Voivodeship,2019.2,podlaskie,Glover,27,Delivery
+Voivodeship,2019.2,pomorskie,Glover,77,Delivery
+Voivodeship,2019.2,śląskie,Glover,99,Delivery
+Voivodeship,2019.2,warmińsko-mazurskie,Glover,28,Delivery
+Voivodeship,2019.2,wielkopolskie,Glover,129,Delivery
+Voivodeship,2019.2,zachodniopomorskie,Glover,165,Delivery
+Voivodeship,2020.2,dolnośląskie,Glover,528,Delivery
+Voivodeship,2020.2,kujawsko-pomorskie,Glover,167,Delivery
+Voivodeship,2020.2,lubelskie,Glover,202,Delivery
+Voivodeship,2020.2,lubuskie,Glover,38,Delivery
+Voivodeship,2020.2,łódzkie,Glover,275,Delivery
+Voivodeship,2020.2,małopolskie,Glover,924,Delivery
+Voivodeship,2020.2,mazowieckie,Glover,2434,Delivery
+Voivodeship,2020.2,opolskie,Glover,211,Delivery
+Voivodeship,2020.2,podkarpackie,Glover,38,Delivery
+Voivodeship,2020.2,podlaskie,Glover,58,Delivery
+Voivodeship,2020.2,pomorskie,Glover,275,Delivery
+Voivodeship,2020.2,śląskie,Glover,427,Delivery
+Voivodeship,2020.2,świętokrzyskie,Glover,68,Delivery
+Voivodeship,2020.2,warmińsko-mazurskie,Glover,133,Delivery
+Voivodeship,2020.2,wielkopolskie,Glover,438,Delivery
+Voivodeship,2020.2,zachodniopomorskie,Glover,266,Delivery
+Functional area,2020.1,Functional area - Białystok,Glover,28,Delivery
+Functional area,2019.2,Functional area - Białystok,Glover,27,Delivery
+Functional area,2020.2,Functional area - Białystok,Glover,57,Delivery
+Functional area,2020.1,Functional area - Bydgoszcz,Glover,40,Delivery
+Functional area,2019.2,Functional area - Bydgoszcz,Glover,13,Delivery
+Functional area,2020.2,Functional area - Bydgoszcz,Glover,72,Delivery
+Functional area,2019.2,Functional area - Gorzów Wielkopolski,Glover,5,Delivery
+Functional area,2020.2,Functional area - Gorzów Wielkopolski,Glover,16,Delivery
+Functional area,2020.1,Functional area - GZM,Glover,67,Delivery
+Functional area,2019.2,Functional area - GZM,Glover,32,Delivery
+Functional area,2020.2,Functional area - GZM,Glover,121,Delivery
+Functional area,2020.1,Functional area - GZM2,Glover,72,Delivery
+Functional area,2019.2,Functional area - GZM2,Glover,33,Delivery
+Functional area,2020.2,Functional area - GZM2,Glover,122,Delivery
+Functional area,2020.1,Functional area - Kielce,Glover,28,Delivery
+Functional area,2020.2,Functional area - Kielce,Glover,67,Delivery
+Functional area,2020.1,Functional area - Kraków,Glover,600,Delivery
+Functional area,2019.2,Functional area - Kraków,Glover,323,Delivery
+Functional area,2020.2,Functional area - Kraków,Glover,908,Delivery
+Functional area,2020.1,Functional area - Łódź,Glover,157,Delivery
+Functional area,2019.2,Functional area - Łódź,Glover,62,Delivery
+Functional area,2020.2,Functional area - Łódź,Glover,263,Delivery
+Functional area,2020.1,Functional area - Lublin,Glover,109,Delivery
+Functional area,2019.2,Functional area - Lublin,Glover,50,Delivery
+Functional area,2020.2,Functional area - Lublin,Glover,189,Delivery
+Functional area,2020.1,Functional area - Olsztyn,Glover,49,Delivery
+Functional area,2019.2,Functional area - Olsztyn,Glover,26,Delivery
+Functional area,2020.2,Functional area - Olsztyn,Glover,125,Delivery
+Functional area,2020.1,Functional area - Opole,Glover,128,Delivery
+Functional area,2019.2,Functional area - Opole,Glover,46,Delivery
+Functional area,2020.2,Functional area - Opole,Glover,206,Delivery
+Functional area,2020.1,Functional area - Poznań,Glover,255,Delivery
+Functional area,2019.2,Functional area - Poznań,Glover,129,Delivery
+Functional area,2020.2,Functional area - Poznań,Glover,438,Delivery
+Functional area,2020.1,Functional area - Rzeszów,Glover,11,Delivery
+Functional area,2020.2,Functional area - Rzeszów,Glover,36,Delivery
+Functional area,2020.1,Functional area - Szczecin,Glover,506,Delivery
+Functional area,2019.2,Functional area - Szczecin,Glover,164,Delivery
+Functional area,2020.2,Functional area - Szczecin,Glover,264,Delivery
+Functional area,2020.1,Functional area - Toruń,Glover,37,Delivery
+Functional area,2019.2,Functional area - Toruń,Glover,12,Delivery
+Functional area,2020.2,Functional area - Toruń,Glover,69,Delivery
+Functional area,2020.1,Functional area - Trójmiasto,Glover,155,Delivery
+Functional area,2019.2,Functional area - Trójmiasto,Glover,74,Delivery
+Functional area,2020.2,Functional area - Trójmiasto,Glover,271,Delivery
+Functional area,2020.1,Functional area - Warszawa,Glover,1583,Delivery
+Functional area,2019.2,Functional area - Warszawa,Glover,1093,Delivery
+Functional area,2020.2,Functional area - Warszawa,Glover,2360,Delivery
+Functional area,2020.1,Functional area - Wrocław,Glover,302,Delivery
+Functional area,2019.2,Functional area - Wrocław,Glover,148,Delivery
+Functional area,2020.2,Functional area - Wrocław,Glover,517,Delivery
+Functional area,2019.2,Functional area - Zielona Góra,Glover,6,Delivery
+Functional area,2020.2,Functional area - Zielona Góra,Glover,18,Delivery
+Cities,2020.1,Wrocław,Glover,302,Delivery
+Cities,2020.1,Bydgoszcz,Glover,39,Delivery
+Cities,2020.1,Toruń,Glover,36,Delivery
+Cities,2020.1,Lublin,Glover,108,Delivery
+Cities,2020.1,Warszawa,Glover,1544,Delivery
+Cities,2020.1,Kraków,Glover,587,Delivery
+Cities,2020.1,Opole,Glover,125,Delivery
+Cities,2020.1,Rzeszów,Glover,11,Delivery
+Cities,2020.1,Białystok,Glover,28,Delivery
+Cities,2020.1,Gdańsk,Glover,99,Delivery
+Cities,2020.1,Gdynia,Glover,31,Delivery
+Cities,2020.1,Sopot,Glover,24,Delivery
+Cities,2020.1,Olsztyn,Glover,47,Delivery
+Cities,2020.1,Poznań,Glover,241,Delivery
+Cities,2020.1,Szczecin,Glover,489,Delivery
+Cities,2020.1,Łódź,Glover,151,Delivery
+Cities,2020.1,Katowice,Glover,67,Delivery
+Cities,2020.1,Kielce,Glover,28,Delivery
+Cities,2019.2,Wrocław,Glover,146,Delivery
+Cities,2019.2,Bydgoszcz,Glover,12,Delivery
+Cities,2019.2,Toruń,Glover,11,Delivery
+Cities,2019.2,Lublin,Glover,49,Delivery
+Cities,2019.2,Gorzów Wielkopolski,Glover,5,Delivery
+Cities,2019.2,Zielona Góra,Glover,6,Delivery
+Cities,2019.2,Warszawa,Glover,1083,Delivery
+Cities,2019.2,Kraków,Glover,314,Delivery
+Cities,2019.2,Opole,Glover,46,Delivery
+Cities,2019.2,Białystok,Glover,27,Delivery
+Cities,2019.2,Gdańsk,Glover,47,Delivery
+Cities,2019.2,Gdynia,Glover,15,Delivery
+Cities,2019.2,Sopot,Glover,12,Delivery
+Cities,2019.2,Olsztyn,Glover,25,Delivery
+Cities,2019.2,Poznań,Glover,120,Delivery
+Cities,2019.2,Szczecin,Glover,157,Delivery
+Cities,2019.2,Łódź,Glover,61,Delivery
+Cities,2019.2,Katowice,Glover,32,Delivery
+Cities,2020.2,Wrocław,Glover,505,Delivery
+Cities,2020.2,Bydgoszcz,Glover,71,Delivery
+Cities,2020.2,Toruń,Glover,66,Delivery
+Cities,2020.2,Lublin,Glover,187,Delivery
+Cities,2020.2,Gorzów Wielkopolski,Glover,15,Delivery
+Cities,2020.2,Zielona Góra,Glover,17,Delivery
+Cities,2020.2,Warszawa,Glover,2358,Delivery
+Cities,2020.2,Kraków,Glover,893,Delivery
+Cities,2020.2,Opole,Glover,204,Delivery
+Cities,2020.2,Rzeszów,Glover,36,Delivery
+Cities,2020.2,Białystok,Glover,56,Delivery
+Cities,2020.2,Gdańsk,Glover,170,Delivery
+Cities,2020.2,Gdynia,Glover,53,Delivery
+Cities,2020.2,Sopot,Glover,42,Delivery
+Cities,2020.2,Olsztyn,Glover,122,Delivery
+Cities,2020.2,Poznań,Glover,410,Delivery
+Cities,2020.2,Szczecin,Glover,254,Delivery
+Cities,2020.2,Łódź,Glover,261,Delivery
+Cities,2020.2,Katowice,Glover,121,Delivery
+Cities,2020.2,Kielce,Glover,65,Delivery

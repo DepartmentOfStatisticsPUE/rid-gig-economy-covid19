@@ -1,0 +1,82 @@
+---
+title: "R Notebook"
+output: html_notebook
+---
+
+```{r}
+library(tidyverse)
+library(rvest)
+library(readxl)
+```
+
+# Morizon data
+
+```{r}
+doc <- read_html("https://www.morizon.pl/ceny/warszawa/")
+doc %>%
+  html_nodes("div.statisticMain") %>%
+  html_nodes("script") %>%
+  html_text() %>%
+  .[1] -> warsaw_prices
+```
+
+```{r}
+str_extract_all(warsaw_prices, "setFullYear\\(\\n\\d{4},\\n\\d{1,2},\\n\\d{1,2} \\)")[[1]] %>%
+  str_remove_all("setFullYear|\\)|\\(|\\n") %>%
+  str_split(",", n = 3, simplify = T) %>%
+  as.data.frame(stringsAsFactors = FALSE) %>%
+  setNames(c("year", "month", "day")) %>%
+  mutate_all(as.numeric) -> dates
+
+head(dates)
+```
+```{r}
+str_extract_all(warsaw_prices, 'description: \\"(\\d{4}|\\d{1,2} \\d{3})')[[1]] %>%
+  str_remove_all('description: \\"|\\s+') %>%
+  as.numeric() -> prices
+```
+
+```{r}
+dates %>%
+  mutate(prices = prices,
+         month = month + 1,
+         month = paste(year, month, 15, sep = "-"),
+         month = as.Date(month)) %>%
+  filter(year >= 2018) %>%
+  mutate(time = row_number() - 27) -> offer_prices
+
+```
+```{r}
+model1 <- lm(formula = prices ~ time, data = offer_prices,
+             subset = time <= 0)
+
+offer_prices %>%
+  ggplot(data = ., aes(x = time, y = prices, group = 1)) +
+  geom_line() + 
+  geom_point() + 
+  geom_abline(slope = coef(model1)[2], intercept = coef(model1)[1], linetype = "dashed", color = "red") +
+  labs(title = a) +
+  geom_vline(xintercept = 0, linetype = "dotted", color = "black")
+```
+
+```{r}
+secondary <- read_excel("../data/ceny_mieszkan.xls", sheet = 3, 
+                        range = "AP10:AS66", 
+                        col_names = c("cities7", "cities10", "cities6", "cities9")) %>%
+  mutate(quarter = c(paste(rep(2007:2020, each = 4), rep(1:4, 14), sep = '-'), "2021-1")) %>%
+  filter(str_detect(quarter, "2018|2019|2020|2021")) %>%
+  mutate(time = row_number()-10)
+```
+
+```{r}
+model1 <- lm(formula = cities6 ~ time, data = secondary, subset = time <= 0)
+
+secondary %>%
+  ggplot(data = ., aes(x = time, y = cities6, group = 1)) +
+  geom_line() + 
+  geom_point() + 
+  geom_abline(slope = coef(model1)[2], intercept = coef(model1)[1], linetype = "dashed", color = "red") +
+  geom_vline(xintercept = 0, linetype = "dotted", color = "black")
+```
+
+
