@@ -8,9 +8,13 @@ Data and codes for the paper "COVID-19 and the gig economy in Poland" (Arxiv pre
 + Nikulin Dagmara -- Gdańsk University of Technology, Poland
 The structure of the repo is as follows:
 
-+ `data/` -- folder with five datasets: 
++ `data/` -- folder with four datasets: 
+        + `gig-montly-stats-new.csv`
+        + `gig-table2-halfyear-demo-stats.csv`
+        + `gig-table3-halfyear-region-stats.csv`
+        + `covid-in-poland.csv`
 + `figures/` -- figures prepared for the paper
-+ `a`
++ `notebooks/` -- notebooks with analysis. Currently only one notebok `analysis.Rmd`
 
 
 ## Acknowledgements
