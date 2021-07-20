@@ -184,7 +184,8 @@ ggsave(plot = p_cases, filename = "../figures/fig-appen-cases.pdf", width = 9, h
 googletrends <- gtrends(keyword = c("Na wynos", "Taksówka"), geo = "PL")
 
 googletrends$interest_over_time %>%
-  mutate(keyword = ifelse(keyword == "Na wynos", "food to takeaway", "taxi")) %>%
+  mutate(keyword = ifelse(keyword == "Na wynos", 
+                          "food to takeaway\n(pol. na wynos)", "taxi\n(pol. taksówka)")) %>%
   filter(year(date) %in% 2018:2021) %>%
   ggplot(data = ., aes(x = date, y = hits, color = keyword, group = keyword)) +
   geom_line() +
