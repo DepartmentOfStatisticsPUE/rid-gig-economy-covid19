@@ -187,11 +187,14 @@ googletrends$interest_over_time %>%
   mutate(keyword = ifelse(keyword == "Na wynos", 
                           "food to takeaway\n(pol. na wynos)", "taxi\n(pol. taksówka)")) %>%
   filter(year(date) %in% 2018:2021) %>%
-  ggplot(data = ., aes(x = date, y = hits, color = keyword, group = keyword)) +
-  geom_line() +
+  ggplot(data = ., aes(x = as.Date(date), y = hits, color = keyword, group = keyword)) +
+  geom_ma(ma_fun = SMA, n = 7, linetype = "solid") + 
   theme_bw() +
   labs(x= "Date", y = "Index", color = "Keyword") +
-  scale_color_brewer(type = "qual", palette = "Set1") -> p1
+  scale_color_brewer(type = "qual", palette = "Set1") +
+  geom_vline(xintercept = as.Date("2020-03-16"), linetype = "dashed", color = "black") + 
+  geom_vline(xintercept = as.Date("2020-09-30"), linetype = "dashed", color = "black") +
+  geom_vline(xintercept = as.Date("2021-01-31"), linetype = "dashed", color = "black") -> p1
 
 p1
 ```
@@ -200,37 +203,45 @@ ggsave(plot = p1, filename = "../figures/fig-appen-gtrends.pdf", width = 9, heig
 ```
 
 ```{r}
-googletrends_apps <- gtrends(keyword = c("Pyszne.pl", "Glovo", "DeliGoo", "Wolt"), geo = "PL")
+googletrends_apps <- gtrends(keyword = c("Pyszne.pl", "Glovo", "DeliGoo", "Wolt", 
+                                         "Uber Eats"), geo = "PL")
 
 googletrends_apps$interest_over_time %>%
   #mutate(keyword = ifelse(keyword == "Na wynos", "food to takeaway", "taxi")) %>%
   mutate(hits = as.numeric(hits),
          keyword = factor(keyword, 
-                          c("DeliGoo", "Glovo", "Pyszne.pl", "Wolt"),
-                          c("DeliGoo", "Glovo", "Takeaway", "Wolt"))) %>%
+                          c("DeliGoo", "Glovo", "Pyszne.pl", "Uber Eats", "Wolt"),
+                          c("DeliGoo", "Glovo", "Takeaway", "Uber Eats", "Wolt"))) %>%
   filter(year(date) %in% 2018:2021) %>%
-  ggplot(data = ., aes(x = date, y = hits, color = keyword, group = keyword)) +
-  geom_line() +
+  ggplot(data = ., aes(x = as.Date(date), y = hits, color = keyword, group = keyword)) +
+  #geom_point() +
+  geom_ma(ma_fun = SMA, n = 7, linetype = "solid") + 
   theme_bw() +
   labs(x= "Date", y = "Index", color = "Keyword") +
-  scale_color_brewer(type = "qual", palette = "Set1") -> p2
+  scale_color_brewer(type = "qual", palette = "Set1") +
+  geom_vline(xintercept = as.Date("2020-03-16"), linetype = "dashed", color = "black") + 
+  geom_vline(xintercept = as.Date("2020-09-30"), linetype = "dashed", color = "black") +
+  geom_vline(xintercept = as.Date("2021-01-31"), linetype = "dashed", color = "black") -> p2
 
 p2
 ggsave(plot = p2, filename = "../figures/fig-appen-gtrends-apps.pdf", width = 9, height = 5)
 ```
 
 ```{r}
-googletrends_apps <- gtrends(keyword = c("Uber", "Uber Eats"), geo = "PL")
+googletrends_apps <- gtrends(keyword = c("Uber", "Uber Eats", "Bolt"), geo = "PL")
 
 googletrends_apps$interest_over_time %>%
   #mutate(keyword = ifelse(keyword == "Na wynos", "food to takeaway", "taxi")) %>%
   mutate(hits = as.numeric(hits),) %>%
   filter(year(date) %in% 2018:2021) %>%
-  ggplot(data = ., aes(x = date, y = hits, color = keyword, group = keyword)) +
-  geom_line() +
+  ggplot(data = ., aes(x = as.Date(date), y = hits, color = keyword, group = keyword)) +
+  geom_ma(ma_fun = SMA, n = 7, linetype = "solid") + 
   theme_bw() +
   labs(x= "Date", y = "Index", color = "Keyword") +
-  scale_color_brewer(type = "qual", palette = "Set1") -> p3
+  scale_color_brewer(type = "qual", palette = "Set1") +
+  geom_vline(xintercept = as.Date("2020-03-16"), linetype = "dashed", color = "black") + 
+  geom_vline(xintercept = as.Date("2020-09-30"), linetype = "dashed", color = "black") +
+  geom_vline(xintercept = as.Date("2021-01-31"), linetype = "dashed", color = "black") -> p3
 
 p3
 ggsave(plot = p3, filename = "../figures/fig-appen-gtrends-apps2.pdf", width = 9, height = 5)
