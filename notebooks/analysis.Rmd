@@ -10,6 +10,7 @@ install.packages("CausalImpact")
 install.packages("tidyverse")
 #devtools::install_github("teunbrand/ggh4x")
 install.packages("tidyquant")
+install.packages("gtrendsR")
 ```
 
 # load required packages
@@ -22,6 +23,7 @@ library(janitor)
 library(broom)
 library(xtable)
 library(tidyquant)
+library(gtrendsR)
 ```
 
 Read the monthly data
@@ -175,6 +177,64 @@ p_cases
 ```{r}
 ggsave(plot = p_cases, filename = "../figures/fig-appen-cases.pdf", width = 9, height = 5)
 ```
+
+### Google trends
+
+```{r}
+googletrends <- gtrends(keyword = c("Na wynos", "Taksówka"), geo = "PL")
+
+googletrends$interest_over_time %>%
+  mutate(keyword = ifelse(keyword == "Na wynos", "food to takeaway", "taxi")) %>%
+  filter(year(date) %in% 2018:2021) %>%
+  ggplot(data = ., aes(x = date, y = hits, color = keyword, group = keyword)) +
+  geom_line() +
+  theme_bw() +
+  labs(x= "Date", y = "Index", color = "Keyword") +
+  scale_color_brewer(type = "qual", palette = "Set1") -> p1
+
+p1
+```
+```{r}
+ggsave(plot = p1, filename = "../figures/fig-appen-gtrends.pdf", width = 9, height = 5)
+```
+
+```{r}
+googletrends_apps <- gtrends(keyword = c("Pyszne.pl", "Glovo", "DeliGoo", "Wolt"), geo = "PL")
+
+googletrends_apps$interest_over_time %>%
+  #mutate(keyword = ifelse(keyword == "Na wynos", "food to takeaway", "taxi")) %>%
+  mutate(hits = as.numeric(hits),
+         keyword = factor(keyword, 
+                          c("DeliGoo", "Glovo", "Pyszne.pl", "Wolt"),
+                          c("DeliGoo", "Glovo", "Takeaway", "Wolt"))) %>%
+  filter(year(date) %in% 2018:2021) %>%
+  ggplot(data = ., aes(x = date, y = hits, color = keyword, group = keyword)) +
+  geom_line() +
+  theme_bw() +
+  labs(x= "Date", y = "Index", color = "Keyword") +
+  scale_color_brewer(type = "qual", palette = "Set1") -> p2
+
+p2
+ggsave(plot = p2, filename = "../figures/fig-appen-gtrends-apps.pdf", width = 9, height = 5)
+```
+
+```{r}
+googletrends_apps <- gtrends(keyword = c("Uber", "Uber Eats"), geo = "PL")
+
+googletrends_apps$interest_over_time %>%
+  #mutate(keyword = ifelse(keyword == "Na wynos", "food to takeaway", "taxi")) %>%
+  mutate(hits = as.numeric(hits),) %>%
+  filter(year(date) %in% 2018:2021) %>%
+  ggplot(data = ., aes(x = date, y = hits, color = keyword, group = keyword)) +
+  geom_line() +
+  theme_bw() +
+  labs(x= "Date", y = "Index", color = "Keyword") +
+  scale_color_brewer(type = "qual", palette = "Set1") -> p3
+
+p3
+ggsave(plot = p3, filename = "../figures/fig-appen-gtrends-apps2.pdf", width = 9, height = 5)
+```
+
 
 ### Demographics
 
