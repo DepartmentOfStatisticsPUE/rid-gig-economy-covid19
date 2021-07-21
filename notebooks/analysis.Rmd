@@ -211,7 +211,8 @@ googletrends_apps$interest_over_time %>%
   mutate(hits = as.numeric(hits),
          keyword = factor(keyword, 
                           c("DeliGoo", "Glovo", "Pyszne.pl", "Uber Eats", "Wolt"),
-                          c("DeliGoo", "Glovo", "Takeaway", "Uber Eats", "Wolt"))) %>%
+                          c("DeliGoo", "Glover (pol. Glovo)", "Takeaway (pol. Pyszne.pl)", 
+                            "Uber Eats", "Wolt"))) %>%
   filter(year(date) %in% 2018:2021) %>%
   ggplot(data = ., aes(x = as.Date(date), y = hits, color = keyword, group = keyword)) +
   #geom_point() +
