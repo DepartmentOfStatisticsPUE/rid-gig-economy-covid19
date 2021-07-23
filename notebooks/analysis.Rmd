@@ -82,7 +82,7 @@ ggplot(data = df, aes(x = trend, y = vals, group = apps)) +
   theme_bw()  +
   scale_x_continuous(breaks = c(-24, -18, -12, -6, 0, 6, 12, 18, 24)) + 
   labs(x = "Months (March 2020=0)", y = "Number of active users",
-       caption = "Note: dotted horizontal lines denote begning of a given COVID-19 wave in Poland. The first is March 2020, the second is September 2020\nand the third is January 2021. Red dashed line denote pre-COVID-19 trend (before March 2020)") -> p1
+       caption = "Note: The dotted horizontal lines indicate when the first, second and third waves started and the red dashed line denotes the linear trend calculated on the data before March 2020") -> p1
 p1
 ```
 
