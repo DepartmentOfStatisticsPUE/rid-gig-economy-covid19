@@ -2,11 +2,28 @@
 
 ## Basic info
 
-Data and codes for the paper "COVID-19 and the gig economy in Poland" (Arxiv preprint: TBA) by:
+Data and codes for the paper "COVID-19 and the gig economy in Poland" (Arxiv preprint: https://arxiv.org/abs/2107.11124) by:
 
 + Beręsewicz Maciej -- Poznań University of Economics and Business, Poland; Statistical Office in Poznań, Poland
 + Nikulin Dagmara -- Gdańsk University of Technology, Poland
 The structure of the repo is as follows:
+
+**How to cite**
+
+```
+Beręsewicz, Nikulin (2021), COVID-19 and the gig economy in Poland, Arxiv Preprint: 2107.11124
+```
+
+```
+@misc{beręsewicz2021covid19,
+      title={COVID-19 and the gig economy in Poland}, 
+      author={Maciej Beręsewicz and Dagmara Nikulin},
+      year={2021},
+      eprint={2107.11124},
+      archivePrefix={arXiv},
+      primaryClass={econ.GN}
+}
+```
 
 ## Structure of the repo
 
