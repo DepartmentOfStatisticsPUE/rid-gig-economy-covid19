@@ -11,7 +11,7 @@ The structure of the repo is as follows:
 **How to cite**
 
 ```
-Beręsewicz, Nikulin (2021), COVID-19 and the gig economy in Poland, Arxiv Preprint: 2107.11124
+Beręsewicz, Nikulin (2021), COVID-19 and the gig economy in Poland, Arxiv Preprint: 2107.11124, URL: https://arxiv.org/abs/2107.11124
 ```
 
 ```
